@@ -23,7 +23,7 @@ As an ancient industry, music and arts have been plaguged by many web2 inherent 
 ## Dual-token mechanism
 
 ## Token distribution
-<img src="./resources/csm-token-distribution.png" width=200 />
+<img src="./resources/csm-token-distribution.png" width=400 />
 
 # Ecosyste mining
 
