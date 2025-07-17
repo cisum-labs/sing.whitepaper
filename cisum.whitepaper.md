@@ -62,7 +62,7 @@ Below shows the high-level diagram of interaction flows between artists, fans an
 
 ## Ecosystem mining
 
-There can infinite amount of activities to interact or engage with artists or their related projects. Following are a list of example activities that can be conducted to earn `xSTAR` credit tokens:
+There can be an infinite amount of activities to interact or engage with artists or their related projects. Following are a list of example activities that can be conducted to earn `xSTAR` credit tokens:
 - Sign into the Cisum Verse APP daily
 - Vote for one's favourite artist
 - Watch short videos generated in the artists events
@@ -74,9 +74,11 @@ There can infinite amount of activities to interact or engage with artists or th
 
 ## Token distribution
 
-The total supply of `CISUM` is 10 billion, 50% of which has to be mined through ecosystem activities.
-Following diagram shows the overall distribution of the platform token.
+The total supply of `CISUM` is `10 billion`, `50%` of which has to be mined through ecosystem activities. Following diagram shows the overall distribution of the platform token.
+
 <img src="./resources/csm-token-distribution.png" width=600 />
+
+P.S. There can be as many artisits communities as possible as the platform grows to reache the global markets.
 
 # CISUM Token Distribution Schedule
 
@@ -90,6 +92,7 @@ Following diagram shows the overall distribution of the platform token.
 | Community Airdrops         | 3%         | 300,000,000 CISUM    | N/A | Distributed to early users and community members to encourage platform adoption and engagement.    |
 | Ecosystem Mining          | 50%        | 5,000,000,000 CISUM  | N/A | Mined via Proof of Head, Payment and Stake to incentivize participation and ecosystem development. |
 
+## CISUM Token Circulating Schedule
 
 # Technology
 
