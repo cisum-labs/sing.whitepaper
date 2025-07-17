@@ -54,7 +54,7 @@ Below shows the high-level diagram of interaction flows between artists, fans an
 <img src="./resources/cisum-tokenomics.png" width=600 />
 
 ```
-There can be as many artisits communities as possible as the platform grows to reache the global markets.
+Note: There can be as many artisits communities as possible as the platform grows to reache the global markets.
 ```
 | Category             | Description   | Mining              |
 |----------------------|---------------|----------------------|
