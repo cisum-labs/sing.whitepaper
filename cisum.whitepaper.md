@@ -55,10 +55,15 @@ Below shows the high-level diagram of interaction flows between artists, fans an
 
 | Category             | Description   | Mining              |
 |----------------------|---------------|----------------------|
-| `PoH`: Proof of Head | Proof of a real person that creats an on-chain account | each account helps to mint the amount of `CISUM` tokens woth of `$20` |
+| `PoH`: Proof of Head | Proof of a real person that creats an on-chain account | Each account helps to mint the amount of `CISUM` tokens woth of `$20` |
 | `PoP`: Proof of Payment | A proof whereby fans buy certain contents, products or services by spending fiat money or crypto stable tokens like `USDT` | `10%` of each transaction value will be converted into newly minted `CISUM` to reward the buyer;
 | `PoS`: Proof of Stake | All users can stake `CISUM` tokens to in order to earn interests in `CISUM` tokens | The PoS interests are newly minted according to a predefined interest schedule. The one-year staking plan offers an APY of 3.6%. | 
-| `PoE`: Proof of Engagement | Fans engage with their favourite artists or artists related projects for their contents, products or services. | Fans first earn xSTAR as artisits credit points and VIP-level fans can swap xSTAR for CISUM tokens that reside in artisits CISUM reserve pool | 
+| `PoE`: Proof of Engagement | Fans engage with their favourite artists or artists related projects for their contents, products or services and get rewarded for `xSTAR` that is unque to each artist (or artists group). There is no upper limit for the total amount of `xSTAR` as long as fans keep engaging with the artists or their related projects | Fans first earn `xSTAR` as artisits credit points and VIP-level fans can swap `xSTAR` for CISUM tokens that reside in artisits CISUM reserve pool | 
+
+## Ecosystem mining
+
+There can infinite amount of activities to interact or engage with artists or their related projects.
+
 
 ## Token distribution
 <img src="./resources/csm-token-distribution.png" width=600 />
@@ -75,7 +80,6 @@ Below shows the high-level diagram of interaction flows between artists, fans an
 | Community Airdrops         | 3%         | 300,000,000 CISUM    | N/A | Distributed to early users and community members to encourage platform adoption and engagement.    |
 | Ecosystem Mining          | 50%        | 5,000,000,000 CISUM  | N/A | Mined via Proof of Head, Payment and Stake to incentivize participation and ecosystem development. |
 
-# Ecosyste mining
 
 # Technology
 
