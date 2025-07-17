@@ -52,21 +52,21 @@ Cisum Verse leverages Web3 technology to empower young artists in realizing thei
 
 # CISUM Token Distribution Schedule
 
-| Allocation Category        | Percentage | Token Amount         | Description                                                        |
-|----------------------------|------------|----------------------|------------------------------------------------------------------|
-| Ecosystem Mining (PoP & PoS) | 50%        | 5,000,000,000 CISUM  | Mined via Proof of Payment and Proof of Stake to incentivize participation and secure the network. |
-| Founding Team              | 15%        | 1,500,000,000 CISUM  | Reserved for founding members, subject to vesting schedules to ensure long-term alignment.         |
-| Private Fundraising        | 12%        | 1,200,000,000 CISUM  | Allocated to early investors from private sales, with vesting to prevent market dumping.           |
-| Foundation                 | 8%         | 800,000,000 CISUM    | Used for platform development, research, and community initiatives governed by the foundation.     |
-| Ecosystem Partnerships     | 8%         | 800,000,000 CISUM    | Reserved for strategic partners to promote ecosystem growth and integrations.                      |
-| Strategic Reserve          | 4%         | 400,000,000 CISUM    | Held for unforeseen opportunities and platform stability measures.                                 |
-| Community Airdrops         | 3%         | 300,000,000 CISUM    | Distributed to early users and community members to encourage platform adoption and engagement.    |
+| Allocation Category        | Percentage | Token Amount         | Vesting Plan | Description                                                |
+|----------------------------|------------|----------------------|--------------|------------------------------------------------------------|
+| Founding Team              | 15%        | 1,500,000,000 CISUM  | 18-month cliff, 36-month linear unlock | Reserved for founding members, subject to vesting schedules to ensure long-term alignment.         |
+| Private Fundraising        | 12%        | 1,200,000,000 CISUM  | 18-month cliff, 18-month linear unlock | Allocated to early investors from private sales, with vesting to prevent market dumping.           |
+| Foundation                 | 8%         | 800,000,000 CISUM    | N/A | Used for platform development, research, and community initiatives governed by the foundation.     |
+| Ecosystem Partnerships     | 8%         | 800,000,000 CISUM    | 18-month cliff, 36-month linear unlock | Reserved for strategic partners to promote ecosystem growth and integrations.                      |
+| Strategic Reserve          | 4%         | 400,000,000 CISUM    | N/A | Held for unforeseen opportunities and platform stability measures.                                 |
+| Community Airdrops         | 3%         | 300,000,000 CISUM    | N/A | Distributed to early users and community members to encourage platform adoption and engagement.    |
+| Ecosystem Mining          | 50%        | 5,000,000,000 CISUM  | N/A | Mined via Proof of Head, Payment and Stake to incentivize participation and ecosystem development. |
 
-## Example Vesting Schedule for Team & Private Investors
+## Vesting Schedule for Team & Private Investors
 
 | Vesting Phase     | Percentage Released | Timeframe                  |
 |-------------------|---------------------|----------------------------|
-| Cliff Period      | 0%                  | First 6 months (no release)|
+| Cliff Period      | 0%                  | First 18 months (no release)|
 | Year 1            | 25%                 | Released at month 6        |
 | Year 2            | 25%                 | Released at month 12       |
 | Year 3            | 25%                 | Released at month 18       |
