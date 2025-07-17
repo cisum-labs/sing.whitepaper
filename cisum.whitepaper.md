@@ -53,6 +53,9 @@ Below shows the high-level diagram of interaction flows between artists, fans an
 
 <img src="./resources/cisum-tokenomics.png" width=600 />
 
+```
+There can be as many artisits communities as possible as the platform grows to reache the global markets.
+```
 | Category             | Description   | Mining              |
 |----------------------|---------------|----------------------|
 | `PoH`: Proof of Head | Proof of a real person that creats an on-chain account | Each account helps to mint the amount of `CISUM` tokens woth of `$20` |
@@ -78,7 +81,6 @@ The total supply of `CISUM` is `10 billion`, `50%` of which has to be mined thro
 
 <img src="./resources/csm-token-distribution.png" width=600 />
 
-P.S. There can be as many artisits communities as possible as the platform grows to reache the global markets.
 
 # CISUM Token Distribution Schedule
 
