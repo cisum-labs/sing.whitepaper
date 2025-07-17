@@ -67,7 +67,9 @@ There can infinite amount of activities to interact or engage with artists or th
 - Vote for one's favourite artist
 - Watch short videos generated in the artists events
 - Invite friends to join the community
-- Upload contents by artists
+- Upload audition contents by artists
+- Play music to earn
+- Share music with others to earn
 
 
 ## Token distribution
