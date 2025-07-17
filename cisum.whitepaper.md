@@ -47,7 +47,7 @@ Cisum Verse leverages Web3 technology to empower young artists in realizing thei
 
 Cisum Verse employs a two-level token model for the entire ecosystems:
 - level-1: `CISUM` token as the unique platform token to power the continuous development of the ecosystem
-- level-2: Credit tokens for Artists or projects to encourange rewarding fans engaging activities
+- level-2: Credit tokens (codename as `xSTAR`) for Artists or projects to encourange rewarding fans engaging activities. `xSTAR` can be used in many artisits or projects actvities ranging from buying a ticket to swag products like bags/cups/shirts...etc, to NFT items, to taking photos or having dinner with the artisits...to just name a few.
 
 Below shows the high-level diagram of interaction flows between artists, fans and the platform with exhibition of various mining mechanisms:
 
@@ -62,10 +62,18 @@ Below shows the high-level diagram of interaction flows between artists, fans an
 
 ## Ecosystem mining
 
-There can infinite amount of activities to interact or engage with artists or their related projects.
+There can infinite amount of activities to interact or engage with artists or their related projects. Following are a list of example activities that can be conducted to earn `xSTAR` credit tokens:
+- Sign into the Cisum Verse APP daily
+- Vote for one's favourite artist
+- Watch short videos generated in the artists events
+- Invite friends to join the community
+- Upload contents by artists
 
 
 ## Token distribution
+
+The total supply of `CISUM` is 10 billion, 50% of which has to be mined through ecosystem activities.
+Following diagram shows the overall distribution of the platform token.
 <img src="./resources/csm-token-distribution.png" width=600 />
 
 # CISUM Token Distribution Schedule
@@ -83,6 +91,11 @@ There can infinite amount of activities to interact or engage with artists or th
 
 # Technology
 
+## Blockchain selection
+
+FullOn Network has been selected as the application platform for Cisum Verse for its ultra-low gas fee and high performance and unique goal of being the application chain to all other chains by its powerful built-in interoperbility.
+
+1. Smart contracts
 
 # Note:
 
