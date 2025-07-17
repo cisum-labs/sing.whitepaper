@@ -49,10 +49,16 @@ Cisum Verse employs a two-level token model for the entire ecosystems:
 - level-1: `CISUM` token as the unique platform token to power the continuous development of the ecosystem
 - level-2: Credit tokens for Artists or projects to encourange rewarding fans engaging activities
 
-Below shows the overall diagram of interaction between artists, fans and various mining mechanisms:
-
+Below shows the high-level diagram of interaction flows between artists, fans and the platform with exhibition of various mining mechanisms:
 
 <img src="./resources/cisum-tokenomics.png" width=600 />
+
+| Category             | Description   | Mining              |
+|----------------------|---------------|----------------------|
+| `PoH`: Proof of Head | Proof of a real person that creats an on-chain account | each account helps to mint the amount of `CISUM` tokens woth of `$20` |
+| `PoP`: Proof of Payment | A proof whereby fans buy certain contents, products or services by spending fiat money or crypto stable tokens like `USDT` | `10%` of each transaction value will be converted into newly minted `CISUM` to reward the buyer;
+| `PoS`: Proof of Stake | All users can stake CISUM tokens to earn newly minted CISUM rewards according to a predefined interest schedule. The one-year staking plan offers an APY of 3.6%. | 
+| `PoE`: Proof of Engagement | Fans engage with their favourite artists or artists related projects for their contents, products or services. | Fans first earn xSTAR as artisits credit points and VIP-level fans can swap xSTAR for CISUM tokens that reside in artisits CISUM reserve pool | 
 
 ## Token distribution
 <img src="./resources/csm-token-distribution.png" width=600 />
@@ -64,7 +70,7 @@ Below shows the overall diagram of interaction between artists, fans and various
 | Founding Team              | 15%        | 1,500,000,000 CISUM  | 18-month cliff, 36-month linear unlock | Reserved for founding members, subject to vesting schedules to ensure long-term alignment.         |
 | Private Fundraising        | 12%        | 1,200,000,000 CISUM  | 18-month cliff, 18-month linear unlock | Allocated to early investors from private sales, with vesting to prevent market dumping.           |
 | Foundation                 | 8%         | 800,000,000 CISUM    | N/A | Used for platform development, research, and community initiatives governed by the foundation.     |
-| Ecosystem Partnerships     | 8%         | 800,000,000 CISUM    | 18-month cliff, 36-month linear unlock | Reserved for strategic partners to promote ecosystem growth and integrations.                      |
+| Ecosystem Partnership     | 8%         | 800,000,000 CISUM    | 18-month cliff, 36-month linear unlock | Reserved for strategic partners to promote ecosystem growth and integrations.                      |
 | Strategic Reserve          | 4%         | 400,000,000 CISUM    | N/A | Held for unforeseen opportunities and platform stability measures.                                 |
 | Community Airdrops         | 3%         | 300,000,000 CISUM    | N/A | Distributed to early users and community members to encourage platform adoption and engagement.    |
 | Ecosystem Mining          | 50%        | 5,000,000,000 CISUM  | N/A | Mined via Proof of Head, Payment and Stake to incentivize participation and ecosystem development. |
@@ -73,3 +79,7 @@ Below shows the overall diagram of interaction between artists, fans and various
 
 # Technology
 
+
+# Note:
+
+All parameter values as depicted in this paper are subject to `DAO` governance in the future to adapt to a dynicmlly channing market environment.
