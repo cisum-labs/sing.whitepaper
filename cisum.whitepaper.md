@@ -45,7 +45,14 @@ Cisum Verse leverages Web3 technology to empower young artists in realizing thei
 
 # Tokenomics
 
-## Dual-token mechanism
+Cisum Verse employs a two-level token model for the entire ecosystems:
+- level-1: `CISUM` token as the unique platform token to power the continuous development of the ecosystem
+- level-2: Credit tokens for Artists or projects to encourange rewarding fans engaging activities
+
+Below shows the overall diagram of interaction between artists, fans and various mining mechanisms:
+
+
+<img src="./resources/cisum-tokenomics.png" width=600 />
 
 ## Token distribution
 <img src="./resources/csm-token-distribution.png" width=600 />
@@ -61,16 +68,6 @@ Cisum Verse leverages Web3 technology to empower young artists in realizing thei
 | Strategic Reserve          | 4%         | 400,000,000 CISUM    | N/A | Held for unforeseen opportunities and platform stability measures.                                 |
 | Community Airdrops         | 3%         | 300,000,000 CISUM    | N/A | Distributed to early users and community members to encourage platform adoption and engagement.    |
 | Ecosystem Mining          | 50%        | 5,000,000,000 CISUM  | N/A | Mined via Proof of Head, Payment and Stake to incentivize participation and ecosystem development. |
-
-## Vesting Schedule for Team & Private Investors
-
-| Vesting Phase     | Percentage Released | Timeframe                  |
-|-------------------|---------------------|----------------------------|
-| Cliff Period      | 0%                  | First 18 months (no release)|
-| Year 1            | 25%                 | Released at month 6        |
-| Year 2            | 25%                 | Released at month 12       |
-| Year 3            | 25%                 | Released at month 18       |
-| Year 4            | 25%                 | Released at month 24       |
 
 # Ecosyste mining
 
