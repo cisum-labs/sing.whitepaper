@@ -79,7 +79,7 @@ There can be an infinite amount of activities to interact or engage with artists
 
 The total supply of `CISUM` is `10 billion`, `50%` of which has to be mined through ecosystem activities. Following diagram shows the overall distribution of the platform token.
 
-<img src="./resources/csm-token-distribution.png" width=600 />
+<img src="./resources/cisum-token-distribution.png" width=600 />
 
 
 # CISUM Token Distribution Schedule
@@ -102,7 +102,7 @@ The total supply of `CISUM` is `10 billion`, `50%` of which has to be mined thro
 
 ## Blockchain selection
 
-FullOn Network has been selected as the application platform for Cisum Verse for its ultra-low gas fee and high performance and unique goal of being the application chain to all other chains by its powerful built-in interoperbility.
+FullOn Network has been selected as the application platform by Cisum Verse for its ultra-low gas fee and high performance and unique goal of being the application chain to all other chains by its powerful built-in interoperbility.
 
 ## Smart contracts
 
