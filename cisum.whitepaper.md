@@ -47,7 +47,7 @@ Cisum Verse leverages Web3 technology to empower young artists in realizing thei
 
 Cisum Verse employs a two-level token model for the entire ecosystems:
 - level-1: `CISUM` token as the unique platform token to power the continuous development of the ecosystem
-- level-2: Credit tokens (codename as `xSTAR`) for Artists or projects to encourange rewarding fans engaging activities. `xSTAR` can be used in many artisits or projects actvities ranging from buying a ticket to swag products like bags/cups/shirts...etc, to NFT items, to taking photos or having dinner with the artisits...to just name a few.
+- level-2: Credit tokens (codename as `xSTAR`) for Artists or projects to encourange fans engaging activities. `xSTAR` can be used in many artisits or projects actvities ranging from buying artist live-show tickets to swag products like bags/cups/shirts...etc, to NFT items, to taking photos or having dinner with the artisits...to just name a few.
 
 Below shows the high-level diagram of interaction flows between artists, fans and the platform with exhibition of various mining mechanisms:
 
@@ -96,13 +96,25 @@ The total supply of `CISUM` is `10 billion`, `50%` of which has to be mined thro
 
 ## CISUM Token Circulating Schedule
 
+<img src="./resources/cisum-circulating-schedule.png" width=600 />
+
 # Technology
 
 ## Blockchain selection
 
 FullOn Network has been selected as the application platform for Cisum Verse for its ultra-low gas fee and high performance and unique goal of being the application chain to all other chains by its powerful built-in interoperbility.
 
-1. Smart contracts
+## Smart contracts
+
+- `CISUM` token smart contract: `cisum.token`
+- `xSTAR` token smart contract: `cisum.xstar`
+- NFT item Smart contract: `cisum.ntoken`
+- `CISUM` reserve smart contract: `cisum.xreserve`
+- `CISUM/USDT` Swap Pool DEX smart contract
+- `PoH` Smart contract: `poh.cisum`
+- `PoS` Smart contract: `pos.cisum` 
+- `PoP` Smart contract: `pop.cisum`
+- `PoE` Smart contract: `poe.cisum`
 
 # Note:
 
