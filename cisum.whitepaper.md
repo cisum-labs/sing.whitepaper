@@ -100,21 +100,28 @@ The total supply of `CISUM` is `10 billion`, `50%` of which has to be mined thro
 
 # Technology
 
-## Blockchain selection
+## Employment of Blockchain technology
 
 FullOn Network has been selected as the application platform by Cisum Verse for its ultra-low gas fee and high performance and unique goal of being the application chain to all other chains by its powerful built-in interoperbility.
 
-## Smart contracts
+## Employment of Smart contract technology
 
-- `CISUM` token smart contract: `cisum.token`
-- `xSTAR` token smart contract: `cisum.xstar`
-- NFT item Smart contract: `cisum.ntoken`
-- `CISUM` reserve smart contract: `cisum.xreserve`
-- `CISUM/USDT` Swap Pool DEX smart contract
-- `PoH` Smart contract: `poh.cisum`
-- `PoS` Smart contract: `pos.cisum` 
-- `PoP` Smart contract: `pop.cisum`
-- `PoE` Smart contract: `poe.cisum`
+| Category           | Contract name    | Usage description |
+|--------------------|------------------|-------------------|
+| `CISUM` tokens     | `cisum.token`    | issuing `CISUM` tokens |
+| `CISUM` vesting control | `flon.vest` | vesting and linear unlock `CISUM` tokens |
+| `xSTAR` tokens     | `xstar.cisum`    | issuing `xSTAR` credit NFT tokens for artists/projects |
+| NFT tokens         | `cisum.ntoken`   | issuing NFT tokens for Cisum ecosystem |
+| `CISUM` sales      | `sales.cisum`    | sales of `CISUM` tokens minted from artisits reserve |
+| `CISUM/USDT` Swap  | `flon.swap`      | Swap Pool DEX |
+| `PoH` mining pool  | `poh.cisum`      | mine `CISUM` tokens with new account joining/following the artists groups |
+| `PoS` mining pool  | `pos.cisum`      | mine `CISUM` tokens as interests for staking `CISUM` tokens into the pool |
+| `PoP` mining pool  | `pop.cisum`      | mine `CISUM` tokens as rewards to buyers who buy products/services/contents within the platform |
+| `PoE` mining pool  | `poe.cisum`      | mine `xSTAR` credit NFT tokens with on-chain activities |
+
+```
+Note: for off-chain PoE mining activities users will be airdropped with `xSTAR` credit tokens directly by the platform instead of going through the PoE smart contract for token issuance.
+```
 
 # Note:
 
