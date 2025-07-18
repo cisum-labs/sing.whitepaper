@@ -53,7 +53,7 @@ Below shows the high-level diagram of interaction flows between artists, fans an
 
 <p align="center">
 <img src="./resources/cisum-tokenomics.png" width=600 />
-<h3>CISUM Tokenomics Diagram</h3>
+<h4 align="center">CISUM Tokenomics Diagram</h4>
 </p>
 
 ```
@@ -84,7 +84,7 @@ The total supply of `CISUM` is `10 billion`, `50%` of which has to be mined thro
 
 <p align="center">
 <img src="./resources/cisum-token-distribution.png" width=600 />
-<h3>CISUM Token Distribution Diagram</h3>
+<h4 align="center">CISUM Token Distribution Diagram</h4>
 </p>
 
 # CISUM Token Distribution Schedule
@@ -103,7 +103,7 @@ The total supply of `CISUM` is `10 billion`, `50%` of which has to be mined thro
 
 <p align="center">
 <img src="./resources/cisum-circulating-schedule.png" width=600 />
-<h3>CISUM Circulating Schedule</h3>
+<h4 align="center">CISUM Circulating Schedule</h4>
 </p>
 
 # Technology
