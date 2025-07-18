@@ -120,7 +120,7 @@ FullOn Network has been selected as the application platform by Cisum Verse for 
 | `PoE` mining pool  | `poe.cisum`      | mine `xSTAR` credit NFT tokens with on-chain activities |
 
 ```
-Note: for off-chain PoE mining activities users will be airdropped with `xSTAR` credit tokens directly by the platform instead of going through the PoE smart contract for token issuance.
+Note: For off-chain PoE mining activities users will be airdropped with xSTAR credit tokens directly by the platform instead of going through the PoE smart contract for token issuance.
 ```
 
 # Note:
