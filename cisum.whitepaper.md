@@ -46,12 +46,15 @@ Cisum Verse leverages Web3 technology to empower young artists in realizing thei
 # Tokenomics
 
 Cisum Verse employs a two-level token model for the entire ecosystems:
-- level-1: `CISUM` token as the unique platform token to power the continuous development of the ecosystem
-- level-2: Credit tokens (codename as `xSTAR`) for Artists or projects to encourange fans engaging activities. `xSTAR` can be used in many artisits or projects actvities ranging from buying artist live-show tickets to swag products like bags/cups/shirts...etc, to NFT items, to taking photos or having dinner with the artisits...to just name a few.
+- Level-1: `CISUM` token as the unique platform token to power the continuous development of the ecosystem
+- Level-2: Credit tokens (codename as `xSTAR`) for Artists or projects to encourange fans engaging activities. `xSTAR` can be used in many artisits or projects actvities ranging from buying artist live-show tickets to swag products like bags/cups/shirts...etc, to NFT items, to taking photos or having dinner with the artisits...to just name a few.
 
 Below shows the high-level diagram of interaction flows between artists, fans and the platform with exhibition of various mining mechanisms:
 
+<p align="center">
 <img src="./resources/cisum-tokenomics.png" width=600 />
+<h3>CISUM Tokenomics Diagram</h3>
+</p>
 
 ```
 Note: There can be as many artisits communities as possible as the platform grows to reache the global markets.
@@ -79,8 +82,10 @@ There can be an infinite amount of activities to interact or engage with artists
 
 The total supply of `CISUM` is `10 billion`, `50%` of which has to be mined through ecosystem activities. Following diagram shows the overall distribution of the platform token.
 
+<p align="center">
 <img src="./resources/cisum-token-distribution.png" width=600 />
-
+<h3>CISUM Token Distribution Diagram</h3>
+</p>
 
 # CISUM Token Distribution Schedule
 
@@ -96,7 +101,10 @@ The total supply of `CISUM` is `10 billion`, `50%` of which has to be mined thro
 
 ## CISUM Token Circulating Schedule
 
+<p align="center">
 <img src="./resources/cisum-circulating-schedule.png" width=600 />
+<h3>CISUM Circulating Schedule</h3>
+</p>
 
 # Technology
 
