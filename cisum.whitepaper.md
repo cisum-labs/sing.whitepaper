@@ -35,11 +35,10 @@ Cisum Verse leverages Web3 technology to empower young artists in realizing thei
 | Badge NFTs   | NFT | Membership levels denoted by `Common`/`Silver`/`Gold`/`Platinum` etc. badge types | claimable when the quantity level of `CVSBT`reaches |
 | Ticket NFTs| NFT | Each show has a unique set of ticket NFTs | via ticket-rush sessions or direct purchase |
 
-```
-Note:
+***Note:***
 
 In addition to its potential for appreciating financial value, CISUM token holders gain governance rights, participating in platform-wide decision-making through voting processes organized by the Cisum Foundation.
-```
+
 2. **Conducting mining activities**
 
 | Mining Type           | Description                                                    |
@@ -49,8 +48,7 @@ In addition to its potential for appreciating financial value, CISUM token holde
 | `PoP`: Proof of Payment | Payers will be rewarded with newly minted `CISUM` tokens worth of `10%` of the paying amount. |
 | `PoS`: Proof of Stake | Stakers of `CISUM` tokens will be rewarded with a fixed APY of interest based on their selected locking period duration. The interest rewards are newly minted `CISUM` tokens |
 
-```
-Note: 
+***Note:*** 
 
 Example PoE activies include but are not limited to the following:
   - daily sign-in to an artists community
@@ -59,7 +57,6 @@ Example PoE activies include but are not limited to the following:
   - Playing artists music
   - Sharing artists music with others
   - purchasing artists related items
-```
 
 # Ecosystem overall architecture
 
@@ -71,15 +68,11 @@ Below shows the high-level diagram of interaction flows between artists, fans an
 </p>
 
 
-
-```
-Note: 
+***Note:*** 
 
 1. There can be as many artisits communities as possible as the platform grows to reache the global markets.
 2. Each artisits community is required to put aside 10% of their platform income as contribution to the platform fund.
-3. The platform is required to use the platform fund to buy back and burn CISUM tokens to 
-create continuous deflation effect to CISUM.
-```
+3. The platform is required to use the platform fund to buy back and burn CISUM tokens to create continuous deflation effect to CISUM.
 
 
 ## Token distribution
