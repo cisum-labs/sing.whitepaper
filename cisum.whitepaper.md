@@ -46,10 +46,10 @@ Cisum Verse leverages Web3 technology to empower young artists in realizing thei
 
 ```
 Note: Example PoE activies include but are not limited to the following:
-  - daily sign-in to a artists community
-  - inviting others to join
-  - posting/sharing events in social medias
-  - purchasing items
+  - daily sign-in to an artists community
+  - inviting others to join an artists community
+  - posting/sharing artists events in social medias
+  - purchasing artists related items
 ```
 
 
