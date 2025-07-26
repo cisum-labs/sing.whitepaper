@@ -45,7 +45,11 @@ Cisum Verse leverages Web3 technology to empower young artists in realizing thei
 | `PoS`: Proof of Stake | Stakers of `CISUM` tokens will be rewarded with a fixed APY of interest based on their selected locking period duration. The interest rewards are newly minted `CISUM` tokens |
 
 ```
-Example PoE activies include daily sign-in to a artists community, inviting others to join, posting/sharing events in social medias, purchasing items,...etc
+Note: Example PoE activies include but are not limited to the following:
+  - daily sign-in to a artists community
+  - inviting others to join
+  - posting/sharing events in social medias
+  - purchasing items
 ```
 
 
