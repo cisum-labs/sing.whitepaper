@@ -32,7 +32,7 @@ Cisum Verse leverages Web3 technology to empower young artists in realizing thei
 | `CVSBT`    | NFT | A soul-bound token that measures holders overall contribution | via spending within the platform and ecosystem |
 | `GRAB`     | NFT | Used to grab a free ticket in platform organized ticket-rush sessions | via account registration or inviting other to register on-chain |
 | STAR NFTs| NFT | Used as credit points for spending in services/contents/products, unique for each artists community | via burning CISUM to mint or `PoE` activities |
-| Badge NFTs   | NFT | Membership levels denoted by `Common`/`Silver`/`Gold`/`Platium` etc. badge types | claimable when the quantity level of `CVSBT`reaches |
+| Badge NFTs   | NFT | Membership levels denoted by `Common`/`Silver`/`Gold`/`Platinum` etc. badge types | claimable when the quantity level of `CVSBT`reaches |
 | Ticket NFTs| NFT | Each show has a unique set of ticket NFTs | via ticket-rush sessions or direct purchase |
 
 2. **Conducting mining activities**
@@ -59,15 +59,8 @@ Note: Example PoE activies include but are not limited to the following:
 Below shows the high-level diagram of interaction flows between artists, fans and the platform with exhibition of various mining mechanisms:
 
 <p align="center">
-<img src="./resources/cisum-ecosystem-architecture.png" width=600 />
+<img src="./resources/cisum-architecture.png" width=600 />
 <h4 align="center" style="color:grey;font-weight: normal;">Figure-1: CISUM Ecosystem Architecture Diagram</h4>
-</p>
-
-# Ecosystem tokenomics flow
-
-<p align="center">
-<img src="./resources/cisum-tokenomics-flow.png" width=600 />
-<h4 align="center" style="color:grey;font-weight: normal;">Figure-1: CISUM Tokenomics Flow Diagram</h4>
 </p>
 
 ```
