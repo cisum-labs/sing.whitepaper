@@ -24,7 +24,7 @@ Cisum Verse is a pioneering platform dedicated to nurturing emerging artists int
 
 Cisum Verse leverages Web3 technology to empower young artists in realizing their dreams of becoming stars through the following key ways:
 
-1. **Issuing various on-chain tokens**
+1. **Issuing on-chain tokens**
 
 | Token      |  Type | Usage/Privileges/Benefits | Ways to acquire                 |
 |------------|------------|---------------------------|---------------------------------|
@@ -35,11 +35,11 @@ Cisum Verse leverages Web3 technology to empower young artists in realizing thei
 | Badge NFTs   | NFT | Membership levels denoted by `Common`/`Silver`/`Gold`/`Platium` etc. badge types | claimable when the quantity level of `CVSBT`reaches |
 | Ticket NFTs| NFT | Each show has a unique set of ticket NFTs | via ticket-rush sessions or direct purchase |
 
-2. **Conducting various mining activities**
+2. **Conducting mining activities**
 
-| Mining Type              | Description                                                                           |
-|--------------------------|---------------------------------------------------------------------------------------|
-| `PoH`: Proof of Head     | `CISUM` tokens worth of `$20` will be newly minted upon each new account registration |
+| Mining Type           | Description                                                    |
+|-----------------------|----------------------------------------------------------------|     
+| `PoH`: Proof of Head  | `CISUM` tokens worth of `$20` will be newly minted upon each new account registration |
 | `PoE`: Proof of Engagement | Whichever artists or projects engagement activites for minging STAR tokens.         |  
 | `PoP`: Proof of Payment | Payers will be rewarded with newly minted `CISUM` tokens worth of `10%` of the paying amount. |
 | `PoS`: Proof of Stake | Stakers of `CISUM` tokens will be rewarded with a fixed APY of interest based on their selected locking period duration. The interest rewards are newly minted `CISUM` tokens |
@@ -49,34 +49,30 @@ Note: Example PoE activies include but are not limited to the following:
   - daily sign-in to an artists community
   - inviting others to join an artists community
   - posting/sharing artists events in social medias
+  - Playing artists music
+  - Sharing artists music with others
   - purchasing artists related items
 ```
 
-
-
-# Tokenomics
+# Ecosystem overall architecture
 
 Below shows the high-level diagram of interaction flows between artists, fans and the platform with exhibition of various mining mechanisms:
 
 <p align="center">
-<img src="./resources/cisum-tokenomics.png" width=600 />
-<h4 align="center" style="color:grey;font-weight: normal;">Figure-1: CISUM Tokenomics Diagram</h4>
+<img src="./resources/cisum-ecosystem-architecture.png" width=600 />
+<h4 align="center" style="color:grey;font-weight: normal;">Figure-1: CISUM Ecosystem Architecture Diagram</h4>
+</p>
+
+# Ecosystem tokenomics flow
+
+<p align="center">
+<img src="./resources/cisum-tokenomics-flow.png" width=600 />
+<h4 align="center" style="color:grey;font-weight: normal;">Figure-1: CISUM Tokenomics Flow Diagram</h4>
 </p>
 
 ```
 Note: There can be as many artisits communities as possible as the platform grows to reache the global markets.
 ```
-
-## Ecosystem mining
-
-There can be an infinite amount of activities to interact or engage with artists or their related projects. Following are a list of example activities that can be conducted to earn STAR credit tokens:
-- Sign into the Cisum Verse APP daily
-- Vote for one's favourite artist
-- Watch short videos generated in the artists events
-- Invite friends to join the community
-- Upload audition contents by artists
-- Play music to earn
-- Share music with others to earn
 
 
 ## Token distribution
@@ -90,15 +86,14 @@ The total supply of `CISUM` is `10 billion`, `50%` of which has to be mined thro
 
 # CISUM Token Distribution Schedule
 
-| Allocation Category        | Percentage | Token Amount         | Vesting Plan | Description                                                |
-|----------------------------|------------|----------------------|--------------|------------------------------------------------------------|
+| Allocation Category        | Percentage | Token Amount         | Vesting Plan | Description          | 
+|----------------------------|------------|----------------------|--------------|----------------------|
 | Founding Team              | 15%        | 1,500,000,000 CISUM  | 18-month cliff, 36-month linear unlock | Reserved for founding members, subject to vesting schedules to ensure long-term alignment.         |
-| Private Fundraising        | 12%        | 1,200,000,000 CISUM  | 18-month cliff, 18-month linear unlock | Allocated to early investors from private sales, with vesting to prevent market dumping.           |
+| Private Fundraising        | 15%        | 1,200,000,000 CISUM  | 18-month cliff, 18-month linear unlock | Allocated to early investors from private sales, with vesting to prevent market dumping.           |
 | Foundation                 | 8%         | 800,000,000 CISUM    | N/A | Used for platform development, research, and community initiatives governed by the foundation.     |
-| Ecosystem Partnership     | 8%         | 800,000,000 CISUM    | 18-month cliff, 36-month linear unlock | Reserved for strategic partners to promote ecosystem growth and integrations.                      |
 | Strategic Reserve          | 4%         | 400,000,000 CISUM    | N/A | Held for unforeseen opportunities and platform stability measures.                                 |
 | Community Airdrops         | 3%         | 300,000,000 CISUM    | N/A | Distributed to early users and community members to encourage platform adoption and engagement.    |
-| Ecosystem Mining          | 50%        | 5,000,000,000 CISUM  | N/A | Mined via Proof of Head, Payment and Stake to incentivize participation and ecosystem development. |
+| Ecosystem Mining           | 55%        | 5,000,000,000 CISUM  | N/A | Mined via Proof of Head, Payment and Stake to incentivize participation and ecosystem development. |
 
 ## CISUM Token Circulating Schedule
 
