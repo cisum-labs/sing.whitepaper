@@ -24,23 +24,30 @@ Cisum Verse is a pioneering platform dedicated to nurturing emerging artists int
 
 Cisum Verse leverages Web3 technology to empower young artists in realizing their dreams of becoming stars through the following key ways:
 
-1. **Breaking Traditional Barriers and Directly Connecting with Fans**
-   Through a decentralized blockchain platform, artists can engage directly with a global fanbase without relying on traditional record labels or intermediaries, thereby expanding their influence and community.
+1. **Issuing various on-chain tokens**
 
-2. **Digital Assetization and Intellectual Property Protection**
-   Artists’ music works and artworks are tokenized as NFTs, ensuring the uniqueness and tamper-proof proof of ownership, protecting their intellectual property rights and revenue streams.
+| Token Name | Token Type | Usage/Privileges/Benefits | Ways to acquire                 |
+|------------|------------|---------------------------|---------------------------------|
+| `CISUM`    | FT  | a platform-level token to incentivize ecosystem contributors and believers | via private sales or DEX/CEX  |
+| `CVSBT`    | NFT | a soul-bound token that measures holders overall contribution | via spending within the platform and ecosystem |
+| `GRAB`     | NFT | used to grab a free ticket in platform organized ticket-rush sessions | via account registration or inviting other to register on-chain |
+| STAR NFTs| NFT | used as credit points for spending in services/contents/products, unique for each artists community | via burning CISUM to mint or `PoE` activities |
+| Badge NFTs   | NFT | Membership levels denoted by `Common`/`Silver`/`Gold`/`Platium` etc. badge types | claimable when the quantity level of `CVSBT`reaches |
+| Ticket NFTs| NFT | Each show has a unique set of ticket NFTs | via ticket-rush sessions or direct purchase |
 
-3. **Transparent Revenue Distribution Mechanism**
-   Smart contracts automate real-time royalty and income distribution, guaranteeing artists receive fair and transparent compensation while eliminating middlemen’s share typical in traditional industries.
+2. **Conducting various mining activities**
 
-4. **Fan Engagement and Community Governance**
-   By issuing dedicated fan tokens (such as credit tokens), fans can participate in voting, decision-making on artist activities and content direction, fostering closer community bonds, enhancing loyalty, and building a sustainable ecosystem.
+| Mining Type              | Description                                                                           |
+|--------------------------|---------------------------------------------------------------------------------------|
+| `PoH`: Proof of Head     | `CISUM` tokens worth of `$20` will be newly minted upon each new account registration |
+| `PoE`: Proof of Engagement | Whichever artists or projects engagement activites for minging STAR tokens.         |  
+| `PoP`: Proof of Payment | Payers will be rewarded with newly minted `CISUM` tokens worth of `10%` of the paying amount. |
+| `PoS`: Proof of Stake | Stakers of `CISUM` tokens will be rewarded with a fixed APY of interest based on their selected locking period duration. The interest rewards are newly minted `CISUM` tokens |
 
-5. **Innovative Financing and Monetization Channels**
-   Web3 offers diverse funding and incentive models, enabling artists to raise capital via NFT sales, token staking, and more; fans can directly invest in artists and share in their growth and success.
+```
+Example PoE activies include daily sign-in to a artists community, inviting others to join, posting/sharing events in social medias, purchasing items,...etc
+```
 
-6. **Borderless Global Market and Participation**
-   Web3 lowers geographic and economic barriers, allowing fans worldwide to equally participate in supporting and growing artists’ careers, helping artists expand international reach and achieve true globalization.
 
 
 # Tokenomics
@@ -59,12 +66,6 @@ Below shows the high-level diagram of interaction flows between artists, fans an
 ```
 Note: There can be as many artisits communities as possible as the platform grows to reache the global markets.
 ```
-| Category             | Description   | Mining              |
-|----------------------|---------------|----------------------|
-| `PoH`: Proof of Head | Proof of a real person that creats an on-chain account | Each account helps to mint the amount of `CISUM` tokens woth of `$20` |
-| `PoP`: Proof of Payment | A proof whereby fans buy certain contents, products or services by spending fiat money or crypto stable tokens like `USDT` | `10%` of each transaction value will be converted into newly minted `CISUM` to reward the buyer;
-| `PoS`: Proof of Stake | All users can stake `CISUM` tokens to in order to earn interests in `CISUM` tokens | The PoS interests are newly minted according to a predefined interest schedule. The one-year staking plan offers an APY of 3.6%. | 
-| `PoE`: Proof of Engagement | Fans engage with their favourite artists or artists related projects for their contents, products or services and get rewarded for `xSTAR` that is unque to each artist (or artists group). There is no upper limit for the total amount of `xSTAR` as long as fans keep engaging with the artists or their related projects | Fans first earn `xSTAR` as artisits credit points and VIP-level fans can swap `xSTAR` for CISUM tokens that reside in artisits CISUM reserve pool | 
 
 ## Ecosystem mining
 
