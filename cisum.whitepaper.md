@@ -56,10 +56,6 @@ Note: Example PoE activies include but are not limited to the following:
 
 # Tokenomics
 
-Cisum Verse employs a two-level token model for the entire ecosystems:
-- Level-1: `CISUM` token as the unique platform token to power the continuous development of the ecosystem
-- Level-2: Credit tokens (codename as `xSTAR`) for Artists or projects to encourange fans engaging activities. `xSTAR` can be used in many artisits or projects actvities ranging from buying artist live-show tickets to swag products like bags/cups/shirts...etc, to NFT items, to taking photos or having dinner with the artisits...to just name a few.
-
 Below shows the high-level diagram of interaction flows between artists, fans and the platform with exhibition of various mining mechanisms:
 
 <p align="center">
