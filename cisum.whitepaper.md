@@ -70,7 +70,7 @@ Note:
 
 1. There can be as many artisits communities as possible as the platform grows to reache the global markets.
 2. Each artisits community is required to put aside 10% of their platform income as contribution to the platform fund.
-3. The platform is required to use the platform fund to buy back and burn CISUM tokens to create continuous deflaction effect to CISUM.
+3. The platform is required to use the platform fund to buy back and burn CISUM tokens to create continuous deflation effect to CISUM.
 ```
 
 
