@@ -77,7 +77,7 @@ Below shows the high-level diagram of interaction flows between artists, fans an
 
 ## Token distribution
 
-The total supply of `CISUM` is `10 billion`, `50%` of which has to be mined through ecosystem activities. Following diagram shows the overall distribution of the platform token.
+The total supply of `CISUM` is `10 billion`, `55%` of which has to be mined through ecosystem activities. Following diagram shows the overall distribution of the platform token.
 
 <p align="center">
 <img src="./resources/cisum-token-distribution.png" width=600 />
@@ -104,28 +104,15 @@ The total supply of `CISUM` is `10 billion`, `50%` of which has to be mined thro
 
 # Technology
 
-## Employment of Blockchain technology
+## Employment of Blockchain and Smart Contract technology
 
-FullOn Network has been selected as the application platform by Cisum Verse for its ultra-low gas fee and high performance and unique goal of being the application chain to all other chains by its powerful built-in interoperbility.
+Cisum Verse has selected [FullOn Network](https://fullon.network), a high-performance Layer-1 public blockchain, as its application platform due to the following advantages:
+  - Ultra-low gas fees: Transactions cost less than $0.0001, ensuring affordability.
+  - High performance: Supports 10,000 TPS, with an architecture scalable to 1 million TPS.
+  - Low latency: Achieves 0.5-second block intervals and 1-second finality for rapid transaction processing.
+  - Interoperbility: Seamlessly connects with other blockchains in a secure and efficient manner.
 
-## Employment of Smart contract technology
-
-| Category           | Contract name    | Usage description |
-|--------------------|------------------|-------------------|
-| `CISUM` tokens     | `cisum.token`    | issuing `CISUM` tokens |
-| `CISUM` vesting control | `flon.vest` | vesting and linear unlock `CISUM` tokens |
-| `xSTAR` tokens     | `xstar.cisum`    | issuing `xSTAR` credit NFT tokens for artists/projects |
-| NFT tokens         | `cisum.ntoken`   | issuing NFT tokens for Cisum ecosystem |
-| `CISUM` sales      | `sales.cisum`    | sales of `CISUM` tokens minted from artisits reserve |
-| `CISUM/USDT` Swap  | `flon.swap`      | Swap Pool DEX |
-| `PoH` mining pool  | `poh.cisum`      | mine `CISUM` tokens with new account joining/following the artists groups |
-| `PoS` mining pool  | `pos.cisum`      | mine `CISUM` tokens as interests for staking `CISUM` tokens into the pool |
-| `PoP` mining pool  | `pop.cisum`      | mine `CISUM` tokens as rewards to buyers who buy products/services/contents within the platform |
-| `PoE` mining pool  | `poe.cisum`      | mine `xSTAR` credit NFT tokens with on-chain activities |
-
-```
-Note: For off-chain PoE mining activities users will be airdropped with xSTAR credit tokens directly by the platform instead of going through the PoE smart contract for token issuance.
-```
+Furthermore, FullOn Network supports both WASM and EVM technologies for smart contract development and execution, enabling Cisum Verse to implement a highly decentralized solution tailored to its needs.
 
 # Note:
 
