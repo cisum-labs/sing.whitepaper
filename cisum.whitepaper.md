@@ -26,12 +26,12 @@ Cisum Verse leverages Web3 technology to empower young artists in realizing thei
 
 1. **Issuing various on-chain tokens**
 
-| Token Name | Token Type | Usage/Privileges/Benefits | Ways to acquire                 |
+| Token      |  Type | Usage/Privileges/Benefits | Ways to acquire                 |
 |------------|------------|---------------------------|---------------------------------|
-| `CISUM`    | FT  | a platform-level token to incentivize ecosystem contributors and believers | via private sales or DEX/CEX  |
-| `CVSBT`    | NFT | a soul-bound token that measures holders overall contribution | via spending within the platform and ecosystem |
-| `GRAB`     | NFT | used to grab a free ticket in platform organized ticket-rush sessions | via account registration or inviting other to register on-chain |
-| STAR NFTs| NFT | used as credit points for spending in services/contents/products, unique for each artists community | via burning CISUM to mint or `PoE` activities |
+| `CISUM`    | FT  | A platform-level token to incentivize ecosystem contributors and believers | via private sales or DEX/CEX  |
+| `CVSBT`    | NFT | A soul-bound token that measures holders overall contribution | via spending within the platform and ecosystem |
+| `GRAB`     | NFT | Used to grab a free ticket in platform organized ticket-rush sessions | via account registration or inviting other to register on-chain |
+| STAR NFTs| NFT | Used as credit points for spending in services/contents/products, unique for each artists community | via burning CISUM to mint or `PoE` activities |
 | Badge NFTs   | NFT | Membership levels denoted by `Common`/`Silver`/`Gold`/`Platium` etc. badge types | claimable when the quantity level of `CVSBT`reaches |
 | Ticket NFTs| NFT | Each show has a unique set of ticket NFTs | via ticket-rush sessions or direct purchase |
 
@@ -69,7 +69,7 @@ Note: There can be as many artisits communities as possible as the platform grow
 
 ## Ecosystem mining
 
-There can be an infinite amount of activities to interact or engage with artists or their related projects. Following are a list of example activities that can be conducted to earn `xSTAR` credit tokens:
+There can be an infinite amount of activities to interact or engage with artists or their related projects. Following are a list of example activities that can be conducted to earn STAR credit tokens:
 - Sign into the Cisum Verse APP daily
 - Vote for one's favourite artist
 - Watch short videos generated in the artists events
