@@ -16,9 +16,9 @@ Music and the arts are foundational to human civilization, yet the industry suff
 
 # Vision
 
-We, at Cisum Verse, envision a borderless, transparent, and equitable ecosystem for music and the arts, powered by Web3 technology. By leveraging blockchain, smart contracts, and decentralized governance, we return power to creators and communities — unlocking a sustainable, vibrant, and collaborative future.
+At Cisum Verse, we envision a borderless, transparent, and equitable ecosystem for music and the arts, driven by Web3 technology. By harnessing blockchain, smart contracts, and decentralized governance, we empower artists and their communities, fostering a sustainable, vibrant, and collaborative future.
 
-Cisum Verse is a pioneering platform dedicated to nurturing emerging artists into fully-fledged stars by leveraging Web3 technologies to connect them with their rapidly growing fan communities.
+Cisum Verse is a trailblazing platform dedicated to transforming emerging artists into global stars. Through Web3 technologies, we connect music artists with their expanding fanbase, enabling authentic engagement and shared success.
 
 # Solutions
 
@@ -59,12 +59,18 @@ Note: Example PoE activies include but are not limited to the following:
 Below shows the high-level diagram of interaction flows between artists, fans and the platform with exhibition of various mining mechanisms:
 
 <p align="center">
-<img src="./resources/cisum-architecture.png" width=600 />
+<img src="./resources/cisum-ecosystem-arch.png" width=600 />
 <h4 align="center" style="color:grey;font-weight: normal;">Figure-1: CISUM Ecosystem Architecture Diagram</h4>
 </p>
 
+
+
 ```
-Note: There can be as many artisits communities as possible as the platform grows to reache the global markets.
+Note: 
+
+1. There can be as many artisits communities as possible as the platform grows to reache the global markets.
+2. Each artisits community is required to put aside 10% of their platform income as contribution to the platform fund.
+3. The platform is required to use the platform fund to buy back and burn CISUM tokens to create continuous deflaction effect to CISUM.
 ```
 
 
