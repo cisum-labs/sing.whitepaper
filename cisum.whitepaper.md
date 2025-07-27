@@ -111,5 +111,30 @@ Cisum Verse has selected [FullOn Network](https://fullon.network), a high-perfor
 
 Furthermore, FullOn Network supports both WASM and EVM technologies for smart contract development and execution, enabling Cisum Verse to implement a highly decentralized solution tailored to its needs.
 
+# Team
+
+## Founding partners
+
+- **STAR NEST**: The music promition and trading platform in Asia, founded by Zorror Xu.
+- **ZENITH Entertainment Group**: K-pop pioneer, former SM Entertainment CEO, has nurtured over 10 top K-pop groups, with a fanbase exceeding 50 million.
+- **INQ**: Largest independent music company in Vietnam, signed 7 artists, with over 10 million fans.
+- **About Capitale Management**: Focused on private equity investment, owns Huobi Global Exchange, providing asset management services in the Asia-Pacific market.
+
+## Strategic partners
+
+- **United Entertainment Group**: Tencent Music Entertainment Group's brand responsible for artist, concert, and music festival investment management.
+- **Kazakhstan OZEN XO LLP**: Central Asia's largest copyright trading platform, distributing works for over 600 independent musicians.
+- **CAPITAL Theater**: A renowned independent music venue in Vietnam, with a capacity of 2,000 people, hosting over 100 performances annually, and attracting more than 100,000 attendees.
+- **Hong Kong SATELITE Electronic Music Label**: Founded by Janva Tam (Tan Shu Zhong), co-founder of Lane Crawford Group, who has organized over 100 global events for LVMH. SATELITE hosts over 100 electronic music parties annually, with a fan membership exceeding 100,000.
+- **FullOn Blockchain**: The technical foundation of Cisum Verse, supporting on-chain issuance and circulating and trading of Cisum Verse tokens and implmenting the tokenomics via a suite of governing smart contracts.
+
+## Management team
+
+- **Dow**: Strategy and Finance, financial investment expert.
+- **Zorro**: Artist discovery and content planning, former regional president of Warner Records.
+- **Jun Kang**: Artist training and copyright promotion, former CEO of SM Entertainment.
+- **Michael Choi**: Artist development and copyright production, renowned British music producer.
+- **Thor**: Technical architecture, founder of the FullOn blockchain.
+
 > [!TIP]
 > All parameter values presented in this paper are subject to future DAO governance to adapt to a dynamically changing market environment.
