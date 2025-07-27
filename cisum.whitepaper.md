@@ -22,7 +22,7 @@ Cisum Verse is a trailblazing platform dedicated to transforming emerging artist
 
 # Solutions
 
-Cisum Verse leverages Web3 technology to empower young artists in realizing their dreams of becoming stars through the following key ways:
+Cisum Verse leverages Web3 and A.I. technology to empower young artists in realizing their dreams of becoming stars through the following key ways:
 
 1. **Issuing on-chain tokens**
 
@@ -37,6 +37,7 @@ Cisum Verse leverages Web3 technology to empower young artists in realizing thei
 
 > [!NOTE]
 > In addition to its potential for appreciating financial value, CISUM token holders gain governance rights, participating in platform-wide decision-making through voting processes organized by the Cisum Foundation.
+> The ultimate goal for CISUM is to become the settlement medium for music and arts industry and transfer music/arts fans from consumers to shareholders, producers and DAO governors.
 
 2. **Conducting mining activities**
 
@@ -109,7 +110,11 @@ Cisum Verse has selected [FullOn Network](https://fullon.network), a high-perfor
   - **Low latency:** Achieves 0.5-second block intervals and 1-second finality for rapid transaction processing.
   - **Interoperbility:** Seamlessly connects with other blockchains in a secure and efficient manner.
 
-Furthermore, FullOn Network supports both WASM and EVM technologies for smart contract development and execution, enabling Cisum Verse to implement a highly decentralized solution tailored to its needs.
+Furthermore, FullOn Network supports both EVM and WASM smart contract technologies, enabling Cisum Verse to implement a highly decentralized solution tailored to its needs.
+
+## Employment of A.I. technology
+
+Cisum Verse will collaborate with AI technology providers to develop virtual content and autonmous avatars/agents for artists, and create a virtual autonomous space for music concerts, hosting audiences globally.
 
 # Team
 
@@ -128,7 +133,7 @@ Furthermore, FullOn Network supports both WASM and EVM technologies for smart co
 - **Hong Kong SATELITE Electronic Music Label**: Founded by Janva Tam (Tan Shu Zhong), co-founder of Lane Crawford Group, who has organized over 100 global events for LVMH. SATELITE hosts over 100 electronic music parties annually, with a fan membership exceeding 100,000.
 - **FullOn Blockchain**: The technical foundation of Cisum Verse, supporting on-chain issuance and circulating and trading of Cisum Verse tokens and implmenting the tokenomics via a suite of governing smart contracts.
 
-## Management team
+## Leadership team
 
 - **Dow**: Strategy and Finance, financial investment expert.
 - **Zorro**: Artist discovery and content planning, former regional president of Warner Records.
@@ -136,5 +141,15 @@ Furthermore, FullOn Network supports both WASM and EVM technologies for smart co
 - **Michael Choi**: Artist development and copyright production, renowned British music producer.
 - **Thor**: Technical architecture, founder of the FullOn blockchain.
 
+# Governance Model
+
+- **Initial Governance (2025-2028)**: The Cisum Foundation (registered in the Cayman Islands) oversees strategic planning, token issuance, and ecosystem management to ensure compliance and initial stability.
+- **Transitional Governance (2028-2029)**: Gradually shifts to decentralized governance under Fans DAO, with fans participating in decision-making through CISUM staking and a badge system.
+- **Fully Decentralized Governance (2029 onward)**: Fans DAO fully takes over, with fans and artists collectively deciding platform development, artist signings, and revenue distribution, building a true community co-governance ecosystem.
+
 > [!TIP]
 > All parameter values presented in this paper are subject to future DAO governance to adapt to a dynamically changing market environment.
+
+# Conclusion: The Future of Music with CISUM
+
+CISUM represents a transformative vision for the future of the music industry. Through technological innovation and community governance, we aim to build a fair, transparent, and sustainable ecosystem, propelling global music into the Web3 era. Join us in shaping the future of music.
