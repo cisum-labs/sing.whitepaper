@@ -78,7 +78,7 @@ Cisum Verse 利用 Web3 和人工智能技術，通過以下關鍵方式賦能�
 `CISUM` 總供應量為 `100 億`，其中 `55%` 需通過生態系統活動挖掘。以下圖表顯示平台代幣的整體分配。
 
 <p align="center">
-<img src="./resources/cisum-token-distribution.png" width=600 />
+<img src="./resources/cisum-token-distribution.cn.png" width=600 />
 <h4 align="center" style="color:grey;font-weight: normal;">圖表-2：CISUM 代幣分配圖</h4>
 </p>
 
