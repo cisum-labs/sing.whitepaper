@@ -21,11 +21,13 @@ At **Cisum Verse**, we envision a borderless, transparent, and equitable ecosyst
 **Cisum Verse** is a trailblazing platform dedicated to transforming emerging artists into global stars. Through Web3 technologies, we connect music artists with their expanding fanbase, enabling authentic engagement and shared success.
 
 
-# Strategies
+# Strategy
 
 **Cisum Verse** harnesses Web3 and AI technologies to empower young artists to achieve stardom through three core strategies:
 
 1. **Tokenizing everything**
+
+**Cisum Verse** transforms assets and opportunities into digital tokens, enabling seamless investment, ownership, and governance.
 
 | Token      |  Type      | Usage/Privileges/Benefits | Ways to acquire                 |
 |------------|------------|---------------------------|---------------------------------|
@@ -42,12 +44,14 @@ At **Cisum Verse**, we envision a borderless, transparent, and equitable ecosyst
 
 2. **Mining everything**
 
+**Cisum Verse** enables users to earn rewards through diverse mining mechanisms powered by Web3. From account creation to engagement, payments, and staking, every action generates value in the form of CISUM or STAR tokens, fostering a vibrant ecosystem for artists and fans.
+
 | Mining Type           | Description                                                    |
 |-----------------------|----------------------------------------------------------------|     
-| `PoH`: Proof of Head  | `CISUM` tokens worth of `$20` will be newly minted upon each new account registration |
-| `PoE`: Proof of Engagement | Whichever artists or projects engagement activites for minging STAR tokens.         |  
-| `PoP`: Proof of Payment | Payers will be rewarded with newly minted `CISUM` tokens worth of `10%` of the paying amount. |
-| `PoS`: Proof of Stake | Stakers of `CISUM` tokens will be rewarded with a fixed APY of interest based on their selected locking period duration. The interest rewards are newly minted `CISUM` tokens |
+| Proof of Head(PoH)    | `CISUM` tokens worth of `$20` will be newly minted upon each new account registration |
+| Proof of Engagement(PoE) | Whichever artists or projects engagement activites for minging STAR tokens.         |  
+| Proof of Payment(PoP) | Payers will be rewarded with newly minted `CISUM` tokens worth of `10%` of the paying amount. |
+| Proof of Stake(PoS)   | Stakers of `CISUM` tokens will be rewarded with a fixed APY of interest based on their selected locking period duration. The interest rewards are newly minted `CISUM` tokens |
 
 > [!NOTE]
 > Example PoE activies include but are not limited to the following:
