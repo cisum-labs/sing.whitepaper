@@ -126,6 +126,7 @@ Cisum Verse 選擇 [FullOn Network](https://fullon.network) 作為其應用平�
 - **ZENITH Entertainment Group**：K-pop 先驅，前 SM 娛樂 CEO，培養超過 10 個頂尖 K-pop 團體，粉絲群超過 5,000 萬。
 - **INQ**：越南最大的獨立音樂公司，簽約 7 位藝術家，擁有超過 1,000 萬粉絲。
 - **About Capitale Management**：專注於私募股權投資，擁有 Huobi 全球交易所，提供亞太市場的資產管理服務。
+- **FullOn Blockchain**：Cisum Verse 的技術基礎，支持鏈上發行、流通和交易 Cisum Verse 代幣，並通過一系列治理智慧合約實現代幣經濟學。
 
 ## 策略合作夥伴
 
@@ -133,7 +134,6 @@ Cisum Verse 選擇 [FullOn Network](https://fullon.network) 作為其應用平�
 - **Kazakhstan OZEN XO LLP**：中亞最大的版權交易平台，為超過 600 位獨立音樂家分發作品。
 - **CAPITAL Theater**：越南知名獨立音樂場地，容量 2,000 人，每年舉辦超過 100 場演出，吸引超過 10 萬名觀眾。
 - **香港 SATELITE 電子音樂品牌**：由 Lane Crawford 集團共同創始人 Janva Tam（譚樹中）創立，為 LVMH 組織超過 100 場全球活動。SATELITE 每年舉辦超過 100 場電子音樂派對，粉絲會員超過 10 萬。
-- **FullOn Blockchain**：Cisum Verse 的技術基礎，支持鏈上發行、流通和交易 Cisum Verse 代幣，並通過一系列治理智慧合約實現代幣經濟學。
 
 ## 領導團隊
 

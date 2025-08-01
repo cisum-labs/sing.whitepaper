@@ -133,6 +133,7 @@ Furthermore, FullOn Network supports both EVM and WASM smart contract technologi
 - **ZENITH Entertainment Group**: K-pop pioneer, former SM Entertainment CEO, has nurtured over 10 top K-pop groups, with a fanbase exceeding 50 million.
 - **INQ**: Largest independent music company in Vietnam, signed 7 artists, with over 10 million fans.
 - **About Capitale Management**: Focused on private equity investment, owns Huobi Global Exchange, providing asset management services in the Asia-Pacific market.
+- **FullOn Blockchain**: The technical foundation of **Cisum Verse**, supporting on-chain issuance and circulating and trading of **Cisum Verse** tokens and implmenting the tokenomics via a suite of governing smart contracts.
 
 ## Strategic partners
 
@@ -140,7 +141,7 @@ Furthermore, FullOn Network supports both EVM and WASM smart contract technologi
 - **Kazakhstan OZEN XO LLP**: Central Asia's largest copyright trading platform, distributing works for over 600 independent musicians.
 - **CAPITAL Theater**: A renowned independent music venue in Vietnam, with a capacity of 2,000 people, hosting over 100 performances annually, and attracting more than 100,000 attendees.
 - **Hong Kong SATELITE Electronic Music Label**: Founded by Janva Tam (Tan Shu Zhong), co-founder of Lane Crawford Group, who has organized over 100 global events for LVMH. SATELITE hosts over 100 electronic music parties annually, with a fan membership exceeding 100,000.
-- **FullOn Blockchain**: The technical foundation of **Cisum Verse**, supporting on-chain issuance and circulating and trading of **Cisum Verse** tokens and implmenting the tokenomics via a suite of governing smart contracts.
+
 
 ## Leadership team
 
