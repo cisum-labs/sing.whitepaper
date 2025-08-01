@@ -64,7 +64,7 @@ At **Cisum Verse**, we envision a borderless, transparent, and equitable ecosyst
 
 3. **Fans investing in artists**
 
-Fans can become investors and shareholders in their favorite artists by participating in fundraising for short-term projects (e.g., live events), medium-to-long-term ventures (5–10 years, supporting artists’ rise to stardom), or lifelong initiatives (e.g., digital avatars serving online or on-chain communities). By investing, fans receive NFT tokens representing shares, earning CISUM equivalent to 10% of the project’s revenue. Additionally, NFT holders can vote in governance decisions for their invested projects.
+Fans can become investors and shareholders in their favorite artists by participating in fundraising for short-term projects (e.g., live events), medium-to-long-term ventures (5–10 years, supporting artists’ rise to stardom), or lifelong initiatives (e.g., 3D Digital Autonomous AI Agents serving online or on-chain communities). By investing, fans receive NFT tokens representing shares, earning CISUM equivalent to 10% of the project’s revenue. Additionally, NFT holders can vote in governance decisions for their invested projects.
 
 # Ecosystem overall architecture
 
@@ -123,7 +123,7 @@ Furthermore, FullOn Network supports both EVM and WASM smart contract technologi
 
 ## Employment of A.I. technology
 
-**Cisum Verse** will collaborate with AI technology providers to develop virtual content and autonmous avatars/agents for artists, and create a virtual autonomous space for music concerts, hosting audiences globally.
+**Cisum Verse** collaborates with leading AI technology providers to create virtual content and autonomous 3D digital agents for artists, building virtual concert spaces that engage global audiences. These AI-powered 3D agents represent artists in online and on-chain ecosystems, interacting with fans, hosting virtual events, and generating revenue for NFT investors, fostering lasting artist-fan connections.
 
 # Team
 
