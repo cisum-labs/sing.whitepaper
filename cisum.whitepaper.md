@@ -132,7 +132,7 @@ Furthermore, FullOn Network supports both EVM and WASM smart contract technologi
 - **STAR NEST**: The music promition and trading platform in Asia, founded by Zorror Xu.
 - **ZENITH Entertainment Group**: K-pop pioneer, former SM Entertainment CEO, has nurtured over 10 top K-pop groups, with a fanbase exceeding 50 million.
 - **INQ**: Largest independent music company in Vietnam, signed 7 artists, with over 10 million fans.
-- **About Capitale Management**: Focused on private equity investment, owns Huobi Global Exchange, providing asset management services in the Asia-Pacific market.
+- **About Capital Management**: Focused on private equity investment, owns Huobi Global Exchange, providing asset management services in the Asia-Pacific market.
 - **FullOn Blockchain**: The technical foundation of **Cisum Verse**, supporting on-chain issuance and circulating and trading of **Cisum Verse** tokens and implmenting the tokenomics via a suite of governing smart contracts.
 
 ## Strategic partners

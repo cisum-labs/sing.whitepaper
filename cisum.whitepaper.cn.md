@@ -125,7 +125,7 @@ Cisum Verse 選擇 [FullOn Network](https://fullon.network) 作為其應用平�
 - **STAR NEST**：亞洲音樂推廣與交易平台，由 Zorror Xu 創立。
 - **ZENITH Entertainment Group**：K-pop 先驅，前 SM 娛樂 CEO，培養超過 10 個頂尖 K-pop 團體，粉絲群超過 5,000 萬。
 - **INQ**：越南最大的獨立音樂公司，簽約 7 位藝術家，擁有超過 1,000 萬粉絲。
-- **About Capitale Management**：專注於私募股權投資，擁有 Huobi 全球交易所，提供亞太市場的資產管理服務。
+- **About Capital Management**：專注於私募股權投資，擁有 Huobi 全球交易所，提供亞太市場的資產管理服務。
 - **FullOn Blockchain**：Cisum Verse 的技術基礎，支持鏈上發行、流通和交易 Cisum Verse 代幣，並通過一系列治理智慧合約實現代幣經濟學。
 
 ## 策略合作夥伴
