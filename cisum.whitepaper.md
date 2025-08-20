@@ -71,7 +71,7 @@ Fans can become investors and shareholders in their favorite artists by particip
 Below shows the high-level diagram of interaction flows between artists, fans and the platform with exhibition of various mining mechanisms:
 
 <p align="center">
-<img src="./resources/cisum-ecosystem-arch.png" width=600 />
+<img src="./resources/cisum-tokenomics.png" width=600 />
 <h4 align="center" style="color:grey;font-weight: normal;">Figure-1: CISUM Ecosystem Architecture Diagram</h4>
 </p>
 
