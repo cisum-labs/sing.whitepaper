@@ -97,10 +97,10 @@ The total supply of `CISUM` is `10 billion`, `55%` of which has to be mined thro
 |----------------------------|------------|----------------------|--------------|----------------------|
 | Core Team                  | 15%        | 1,500,000,000 CISUM  | 18-month cliff, 36-month linear unlock | Reserved for founding members, subject to vesting schedules to ensure long-term alignment.         |
 | Private Fundraising        | 15%        | 1,200,000,000 CISUM  | 18-month cliff, 18-month linear unlock | Allocated to early investors from private sales, with vesting to prevent market dumping.           |
-| Foundation                 | 8%         | 800,000,000 CISUM    | N/A | Used for platform development, research, and community initiatives governed by the foundation.     |
+| Foundation                 | 12%        | 1,200,000,000 CISUM    | N/A | Used for platform development, research, and community initiatives governed by the foundation.     |
 | Strategic Reserve          | 4%         | 400,000,000 CISUM    | N/A | Held for unforeseen opportunities and platform stability measures.                                 |
 | Community Airdrops         | 3%         | 300,000,000 CISUM    | N/A | Distributed to early users and community members to encourage platform adoption and engagement.    |
-| Ecosystem Mining           | 55%        | 5,000,000,000 CISUM  | N/A | Mined via Proof of Head, Payment and Stake to incentivize participation and ecosystem development. |
+| Ecosystem Mining           | 51%        | 5,100,000,000 CISUM  | N/A | Mined via Proof of Head, Payment and Stake to incentivize participation and ecosystem development. |
 
 ## CISUM Token Circulating Schedule
 
