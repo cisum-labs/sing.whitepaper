@@ -3,16 +3,18 @@
 # **Cisumverse**
 **Revolutionizing the Music & Arts Industry with Web3 & A.I.**
 
+# Overview
 
-# Introduction
+Cisumverse is the world’s first Web3 platform focused on the full lifecycle incubation of music artists (`Cisumverse Artist Incubation Platform`, **CAIP**). Integrating traditional music industry expertise with Web3 technology, it leverages the high-performance FullOn blockchain, a four-stage artist incubation model, CISUM token economics, and smart contracts to create a transparent, fair, and decentralized music economy, fostering new value connections for artists, fans, institutions, and investors.
 
-Music and arts are foundational to human civilization, yet the industry suffers from longstanding challenges deeply rooted in traditional and Web2 structures:
+**Core Processes:**
 
-- `Centralization`: Data and assets are controlled by centralized platforms, resulting in concentrated power, manipulation, and high fees for creators and fans.
-- `Lack of Transparency`: Opaque data flows and restricted access to information about asset ownership and value growth often lead to users' and creators' interests being compromised.
-- `Low Efficiency`: Web2 architectures impose excessive borders, hindering payment, settlement, and global reach for both artists and audiences.
-- `Inequitable Value Distribution`: Major intermediaries maximize their profits at the expense of creators and fans, stifling innovation and sustainability across the industry.
+- **Artist Discovery**: Identifies promising talent through Web2 mechanisms (e.g., global music competitions, label partnerships) and AI-driven analysis.
+- **Artist Development**: Offers financing, training, tours, and Web3 fan engagement to boost visibility.
+- **Star Commercialization**: Organizes music festivals, global tours, and brand collaborations to elevate artists to regional or global stardom.
+- **Metaverse Expansion**: Creates virtual artist avatars, issues NFTs, and develops virtual concerts and blockchain games for cross-platform interaction.
 
+Cisumverse addresses traditional music industry issues like unfair revenue distribution and limited artist growth, while overcoming Web3 music platform challenges (e.g., volatile token values, low NFT liquidity, and insufficient user engagement), driving a revolutionary transformation in the music industry.
 
 # Vision
 
@@ -48,7 +50,7 @@ As a pioneering platform, **Cisumverse** transforms emerging artists into global
 | Mining Type           | Description                                                    |
 |-----------------------|----------------------------------------------------------------|     
 | Proof of Head(PoH)    | `CISUM` tokens worth of `$20` will be newly minted upon each new account registration |
-| Proof of Engagement(PoE) | Whichever artists or projects engagement activites for minging STAR tokens.         |  
+| Proof of Engagement(PoE) | Whichever artists or projects engagement activites for minging `NESTAR` tokens.         |  
 | Proof of Payment(PoP) | Payers will be rewarded with newly minted `CISUM` tokens worth of `10%` of the paying amount. |
 | Proof of Stake(PoS)   | Stakers of `CISUM` tokens will be rewarded with a fixed APY of interest based on their selected locking period duration. The interest rewards are newly minted `CISUM` tokens |
 
@@ -67,7 +69,7 @@ Fans can become investors and shareholders in their favorite artists by particip
 
 # Ecosystem overall architecture
 
-Below shows the high-level diagram of interaction flows between artists, fans and the platform with exhibition of various mining mechanisms:
+The diagram below illustrates the high-level interaction flows between artists, fans, and the platform, highlighting various mining mechanisms:
 
 <p align="center">
 <img src="./resources/cisum-tokenomics.png" width=600 />
