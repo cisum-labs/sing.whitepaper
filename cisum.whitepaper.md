@@ -1,7 +1,7 @@
-`Cisum Verse White Paper`
+`Cisumverse White Paper`
 
-# **Cisum Verse**
-**Revolutionizing the Music & Arts Industry with Web3**
+# **Cisumverse**
+**Revolutionizing the Music & Arts Industry with Web3 & A.I.**
 
 
 # Introduction
@@ -16,26 +16,25 @@ Music and arts are foundational to human civilization, yet the industry suffers 
 
 # Vision
 
-**Cisum Verse** envisions a borderless, transparent, and equitable ecosystem for music and the arts, powered by Web3 technology. By leveraging blockchain, smart contracts, and decentralized governance, we empower artists and their communities to create a sustainable, vibrant, and collaborative future.
+**Cisumverse** envisions a borderless, transparent, and equitable ecosystem for music and the arts, powered by Web3 technology. By leveraging blockchain, smart contracts, and decentralized governance, we empower artists and their communities to create a sustainable, vibrant, and collaborative future.
 
-As a pioneering platform, **Cisum Verse** transforms emerging artists into global stars. Through Web3, we foster authentic connections between artists and their fans, driving engagement, shared success, and limitless creative possibilities.
+As a pioneering platform, **Cisumverse** transforms emerging artists into global stars. Through Web3, we foster authentic connections between artists and their fans, driving engagement, shared success, and limitless creative possibilities.
 
 
 # Strategy
 
-**Cisum Verse** harnesses Web3 and AI technologies to empower young artists to achieve stardom through three core strategies:
+**Cisumverse** harnesses Web3 and AI technologies to empower young artists to achieve stardom through three core strategies:
 
 1. **Tokenizing everything**
 
-**Cisum Verse** transforms assets and opportunities into digital tokens, enabling seamless investment, ownership, and governance.
+**Cisumverse** transforms assets and opportunities into digital tokens, enabling seamless investment, ownership, and governance.
 
 | Token      |  Type      | Usage/Privileges/Benefits | Ways to acquire                 |
 |------------|------------|---------------------------|---------------------------------|
 | `CISUM`    | FT  | A platform-level token to incentivize ecosystem contributors and believers | via private sales or DEX/CEX  |
-| `CVSBT`    | NFT | A soul-bound token that measures holders overall contribution | via spending within the platform and ecosystem |
 | `GRAB`     | NFT | Used to grab a free ticket in platform organized ticket-rush sessions | via account registration or inviting other to register on-chain |
-| STAR NFTs| NFT | Used as credit points for spending in services/contents/products, unique for each artists community | via burning CISUM to mint or `PoE` activities |
-| Badge NFTs   | NFT | Membership levels denoted by `Common`/`Silver`/`Gold`/`Platinum` etc. badge types | claimable when the quantity level of `CVSBT`reaches |
+| `NESTAR`   | NFT | Used as credit points for spending in services/contents/products, unique for each artists community | via burning CISUM to mint or `PoE` activities |
+| Badge NFTs   | NFT | Membership levels denoted by `Common`/`Silver`/`Gold`/`Platinum` etc. badge types | claimable when the quantity level of spent `NESTAR`reaches |
 | Ticket NFTs| NFT | Each show has a unique set of ticket NFTs | via ticket-rush sessions or direct purchase |
 
 > [!NOTE]
@@ -44,7 +43,7 @@ As a pioneering platform, **Cisum Verse** transforms emerging artists into globa
 
 2. **Mining everything**
 
-**Cisum Verse** enables users to earn rewards through diverse mining mechanisms powered by Web3. From account creation to engagement, payments, and staking, every action generates value in the form of CISUM or STAR tokens, fostering a vibrant ecosystem for artists and fans.
+**Cisumverse** enables users to earn rewards through diverse mining mechanisms powered by Web3. From account creation to engagement, payments, and staking, every action generates value in the form of CISUM or STAR tokens, fostering a vibrant ecosystem for artists and fans.
 
 | Mining Type           | Description                                                    |
 |-----------------------|----------------------------------------------------------------|     
@@ -113,17 +112,17 @@ The total supply of `CISUM` is `10 billion`, `55%` of which has to be mined thro
 
 ## Employment of Blockchain and Smart Contract technology
 
-**Cisum Verse** has selected [FullOn Network](https://fullon.network), a high-performance Layer-1 public blockchain, as its application platform due to the following advantages:
+**Cisumverse** has selected [FullOn Network](https://fullon.network), a high-performance Layer-1 public blockchain, as its application platform due to the following advantages:
   - **Ultra-low gas fees:** Transactions cost less than $0.0001, ensuring affordability.
   - **High performance:** Supports 10,000 TPS, with an architecture scalable to 1 million TPS.
   - **Low latency:** Achieves 0.5-second block intervals and 1-second finality for rapid transaction processing.
   - **Interoperbility:** Seamlessly connects with other blockchains in a secure and efficient manner.
 
-Furthermore, FullOn Network supports both EVM and WASM smart contract technologies, enabling **Cisum Verse** to implement a highly decentralized solution tailored to its needs.
+Furthermore, FullOn Network supports both EVM and WASM smart contract technologies, enabling **Cisumverse** to implement a highly decentralized solution tailored to its needs.
 
 ## Employment of A.I. technology
 
-**Cisum Verse** collaborates with leading AI technology providers to create virtual content and autonomous 3D digital agents for artists, building virtual concert spaces that engage global audiences. These AI-powered 3D agents represent artists in online and on-chain ecosystems, interacting with fans, hosting virtual events, and generating revenue for NFT investors, fostering lasting artist-fan connections.
+**Cisumverse** collaborates with leading AI technology providers to create virtual content and autonomous 3D digital agents for artists, building virtual concert spaces that engage global audiences. These AI-powered 3D agents represent artists in online and on-chain ecosystems, interacting with fans, hosting virtual events, and generating revenue for NFT investors, fostering lasting artist-fan connections.
 
 # Team
 
@@ -133,7 +132,7 @@ Furthermore, FullOn Network supports both EVM and WASM smart contract technologi
 - **ZENITH Entertainment Group**: K-pop pioneer, former SM Entertainment CEO, has nurtured over 10 top K-pop groups, with a fanbase exceeding 50 million.
 - **INQ**: Largest independent music company in Vietnam, signed 7 artists, with over 10 million fans.
 - **About Capital Management**: Focused on private equity investment, owns Huobi Global Exchange, providing asset management services in the Asia-Pacific market.
-- **FullOn Blockchain**: The technical foundation of **Cisum Verse**, supporting on-chain issuance and circulating and trading of **Cisum Verse** tokens and implmenting the tokenomics via a suite of governing smart contracts.
+- **FullOn Blockchain**: The technical foundation of **Cisumverse**, supporting on-chain issuance and circulating and trading of **Cisumverse** tokens and implmenting the tokenomics via a suite of governing smart contracts.
 
 ## Strategic partners
 
