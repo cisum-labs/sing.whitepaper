@@ -80,7 +80,7 @@ Cisumverse 解決傳統音樂產業收益不公、發展受限問題，突破 We
 
 ## 代幣分配
 
-`CISUM` 總供應量為 `100 億`，其中 `55%` 需通過生態系統活動挖掘。以下圖表顯示平台代幣的整體分配。
+`CISUM` 總供應量為 `100 億`，其中 `51%` 需通過生態系統活動挖掘。以下圖表顯示平台代幣的整體分配。
 
 <p align="center">
 <img src="./resources/cisum-token-distribution.cn.png" width=600 />

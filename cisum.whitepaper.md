@@ -85,7 +85,7 @@ The diagram below illustrates the high-level interaction flows between artists, 
 
 ## Token distribution
 
-The total supply of `CISUM` is `10 billion`, `55%` of which has to be mined through ecosystem activities. Following diagram shows the overall distribution of the platform token.
+The total supply of `CISUM` is `10 billion`, `51%` of which has to be mined through ecosystem activities. Following diagram shows the overall distribution of the platform token.
 
 <p align="center">
 <img src="./resources/cisum-token-distribution.png" width=600 />
