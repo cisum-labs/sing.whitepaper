@@ -34,8 +34,7 @@ As a pioneering platform, **Cisumverse** transforms emerging artists into global
 | Token      |  Type      | Usage/Privileges/Benefits | Ways to acquire                 |
 |------------|------------|---------------------------|---------------------------------|
 | `CISUM`    | FT  | A platform-level token to incentivize ecosystem contributors and believers | via private sales or DEX/CEX  |
-| `GRAB`     | NFT | Used to grab a free ticket in platform organized ticket-rush sessions | via account registration or inviting other to register on-chain |
-| `NESTAR`   | NFT | Used as credit points for spending in services/contents/products, unique for each artists community | via burning CISUM to mint or `PoE` activities |
+| `NESTAR`   | NFT | Used as credit points for spending in services/contents/products, also for grabbing free tickets | via burning CISUM to mint or `PoE` activities |
 | Badge NFTs   | NFT | Membership levels denoted by `Common`/`Silver`/`Gold`/`Platinum` etc. badge types | claimable when the quantity level of spent `NESTAR`reaches |
 | Ticket NFTs| NFT | Each show has a unique set of ticket NFTs | via ticket-rush sessions or direct purchase |
 
