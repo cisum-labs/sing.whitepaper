@@ -1,165 +1,176 @@
-`Cisumverse White Paper`
+# Cisumverse
+**Revolutionizing the Music and Arts Industry with Web3 and A.I. Technology**
 
-# **Cisumverse**
-**Revolutionizing the Music & Arts Industry with Web3 & A.I.**
+# Abstract
 
-# Overview
+`Cisumverse` is the world’s first Web3 platform dedicated to the full-lifecycle incubation of music artists, built on the high-performance FullOn public blockchain. It issues the utility ecosystem token `CISUM` along with a series of supporting tokens. Through an innovative four-stage artist incubation model, diversified mining mechanisms, and a dual-token economic system, `Cisumverse` provides functional value exchange tools for global music ecosystem participants, driving the music industry toward decentralization and community-driven development. As the native token of the `Cisumverse` platform, `CISUM` integrates Web3 and A.I. technologies to create a transparent and fair music economic ecosystem, empowering emerging artists to become global stars and transforming fans from consumers into investors and stakeholders.
 
-Cisumverse is the world’s first Web3 platform focused on the full lifecycle incubation of music artists (`Cisumverse Artist Incubation Platform`, **CAIP**). Integrating traditional music industry expertise with Web3 technology, it leverages the high-performance FullOn blockchain, a four-stage artist incubation model, CISUM token economics, and smart contracts to create a transparent, fair, and decentralized music economy, fostering new value connections for artists, fans, institutions, and investors.
-
-**Core Processes:**
-
-- **Artist Discovery**: Identifies promising talent through Web2 mechanisms (e.g., global music competitions, label partnerships) and AI-driven analysis.
-- **Artist Development**: Offers financing, training, tours, and Web3 fan engagement to boost visibility.
-- **Star Commercialization**: Organizes music festivals, global tours, and brand collaborations to elevate artists to regional or global stardom.
-- **Metaverse Expansion**: Creates virtual artist avatars, issues NFTs, and develops virtual concerts and blockchain games for cross-platform interaction.
-
-Cisumverse addresses traditional music industry issues like unfair revenue distribution and limited artist growth, while overcoming Web3 music platform challenges (e.g., volatile token values, low NFT liquidity, and insufficient user engagement), driving a revolutionary transformation in the music industry.
-
-# Vision
-
-**Cisumverse** envisions a borderless, transparent, and equitable ecosystem for music and the arts, powered by Web3 technology. By leveraging blockchain, smart contracts, and decentralized governance, we empower artists and their communities to create a sustainable, vibrant, and collaborative future.
-
-As a pioneering platform, **Cisumverse** transforms emerging artists into global stars. Through Web3, we foster authentic connections between artists and their fans, driving engagement, shared success, and limitless creative possibilities.
-
-
-# Strategy
-
-**Cisumverse** harnesses Web3 and AI technologies to empower young artists to achieve stardom through three core strategies:
-
-1. **Tokenizing everything**
-
-**Cisumverse** transforms assets and opportunities into digital tokens, enabling seamless investment, ownership, and governance.
-
-| Token      |  Type      | Usage/Privileges/Benefits | Ways to acquire                 |
-|------------|------------|---------------------------|---------------------------------|
-| `CISUM`    | FT  | A platform-level token to incentivize ecosystem contributors and believers | via private sales or DEX/CEX  |
-| `NESTAR`   | NFT | Used as credit points for spending in services/contents/products, also for grabbing free tickets | via burning CISUM to mint or `PoE` activities |
-| Badge NFTs   | NFT | Membership levels denoted by `Common`/`Silver`/`Gold`/`Platinum` etc. badge types | claimable when the quantity level of spent `NESTAR`reaches |
-| Ticket NFTs| NFT | Each show has a unique set of ticket NFTs | via ticket-rush sessions or direct purchase |
+Additionally, `Cisumverse` efficiently connects artists and fans by minting `Real World Assets` (RWA) for artist growth, copyright distribution, performances, and artist IP, enabling intelligent full-lifecycle management.
 
 > [!NOTE]
-> In addition to its potential for appreciating financial value, CISUM token holders gain governance rights, participating in platform-wide decision-making through voting processes organized by the Cisum Foundation.
-> The ultimate goal for CISUM is to become the settlement medium for music and arts industry and transfer music/arts fans from consumers to shareholders, producers and DAO governors.
+> Important Disclaimer: `CISUM` is a utility token designed for functional applications and service payments within the ecosystem. It does not represent any company equity, debt, or investment contracts and does not have securities attributes.
 
-2. **Mining everything**
+# 1. Introduction
 
-**Cisumverse** enables users to earn rewards through diverse mining mechanisms powered by Web3. From account creation to engagement, payments, and staking, every action generates value in the form of CISUM or STAR tokens, fostering a vibrant ecosystem for artists and fans.
+## 1.1 Structural Challenges in the Music Industry
+The traditional music industry has long faced structural issues such as unequal value distribution, high intermediary costs, and minimal artist profits. While existing Web3 music platforms have introduced decentralization, they commonly encounter the following pain points:
 
-| Mining Type           | Description                                                    |
-|-----------------------|----------------------------------------------------------------|     
-| Proof of Head(PoH)    | `CISUM` tokens worth of `$20` will be newly minted upon each new account registration |
-| Proof of Engagement(PoE) | Whichever artists or projects engagement activites for minging `NESTAR` tokens.         |  
-| Proof of Payment(PoP) | Payers will be rewarded with newly minted `CISUM` tokens worth of `10%` of the paying amount. |
-| Proof of Stake(PoS)   | Stakers of `CISUM` tokens will be rewarded with a fixed APY of interest based on their selected locking period duration. The interest rewards are newly minted `CISUM` tokens |
+- `Overemphasis on Decentralization`: Ignoring artist belongingness and fan loyalty, which are core elements of the music industry.
+- `Singular Business Model`: Primarily reliant on NFT speculation, lacking sustainable revenue models.
+- `Poor User Experience`: High technical barriers make it difficult for ordinary users to participate.
+- `Insufficient Token Value Support`: Lack of practical use cases and value anchoring.
+
+## 1.2 Cisumverse’s Solution
+
+`Cisumverse` addresses the core pain points of traditional Web3 music platforms through a four-stage artist incubation model, blending Web2 best practices with Web3 technological innovation. As the world’s first Web3 platform focused on the full-lifecycle incubation of music artists (`Cisumverse Artist Incubation Platform`, CAIP), it integrates A.I. analytics, artist growth RWA, copyright distribution RWA, performance RWA, and artist IP RWA, providing end-to-end support from artist discovery to metaverse expansion:
+
+- `Rebuilding Artist Belongingness`: Establishing deep ties between the platform and artists through a signing model.
+- `Enhancing Fan Loyalty`: Improving fan loyalty through diverse interactions and profit-sharing mechanisms.
+- `Diversified Revenue Models`: Integrating subscriptions, advertising, merchandise, and performances.
+- `Practical Value Support`: A `10%` revenue-binding mechanism ensures token value is backed by real income.
+
+The core process includes artist discovery (Web2 selection and A.I. analytics), development (training and fan interaction), promotion (global tours and brand partnerships), and monetization (NFT issuance and metaverse experiences).
+
+## 1.3 Cisumverse’s Three Core Strategies
+
+**Cisumverse** leverages Web3 and A.I. technologies to empower young artists to achieve their dreams of stardom through three core strategies:
+
+1. **Tokenization of Everything**
+
+| Token         | Type | Use/Rights/Revenue                         | Acquisition Method                              |
+|---------------|------|--------------------------------------------|-----------------------------------------------|
+| `CISUM`       | FT   | Platform-level token for incentivizing ecosystem contributors and supporters | Via private sale or decentralized/centralized exchanges |
+| `NESTAR`      | NFT  | Credit points for service/content/product consumption, usable for free ticket access | Minted via staking `CISUM` or participating in `PoE` activities |
+| `Badge NFTs`  | NFT  | Membership levels (e.g., Regular, Silver, Gold, Platinum) | Claimed when `NESTAR` consumption reaches specified thresholds |
+| `Ticket NFTs` | NFT  | Unique NFT collections for each performance | Obtained through ticket grabs or direct purchase |
+
+2. **Mining of Everything**
+
+**Cisumverse** offers multiple mining mechanisms through Web3, enabling users to earn rewards. From account creation to participation, payments, and staking, every activity generates value in the form of `CISUM` or `NESTAR` tokens, creating a vibrant ecosystem for artists and fans.
+
+| Mining Type           | Description                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
+| `PoH`: Proof of Registration | Each new account registration mints `CISUM` tokens worth `$20`                |
+| `PoE`: Proof of Engagement   | Participating in artist or project interactions to mine `NESTAR` tokens       |
+| `PoP`: Proof of Payment      | Payers receive newly minted `CISUM` tokens equivalent to `10%` of payment amount |
+| `PoS`: Proof of Stake        | `CISUM` stakers earn fixed annualized yield rewards based on lock-up periods, rewarded with newly minted `CISUM` tokens |
 
 > [!NOTE]
-> Example PoE activies include but are not limited to the following:
->  - daily sign-in to an artists community
->  - inviting others to join an artists community
->  - posting/sharing artists events in social medias
->  - Playing artists music
->  - Sharing artists music with others
->  - purchasing artists related items
+> Example PoE activities include, but are not limited to:
+> - Daily check-ins to artist communities
+> - Inviting others to join artist communities
+> - Posting/sharing artist events on social media
+> - Playing artist music
+> - Sharing artist music with others
+> - Purchasing artist-related products
 
-3. **Fans investing in artists**
+3. **Fans Investing in Artists**
 
-Fans can become investors and shareholders in their favorite artists by participating in fundraising for short-term projects (e.g., live events), medium-to-long-term ventures (5–10 years, supporting artists’ rise to stardom), or lifelong initiatives (e.g., 3D Digital Autonomous AI Agents serving online or on-chain communities). By investing, fans receive NFT tokens representing shares, earning CISUM equivalent to 10% of the project’s revenue. Additionally, NFT holders can vote in governance decisions for their invested projects.
+Fans can become investors and stakeholders in their favorite artists by participating in short-term projects (e.g., live performance events), medium-to-long-term careers (5-10 years, supporting artists to become stars), or lifelong projects (e.g., 3D digital autonomous A.I. agents serving online or on-chain communities). Through investments, fans receive NFT tokens representing shares and earn `CISUM` equivalent to 10% of project revenue. Additionally, NFT holders can vote on governance decisions for their invested projects.
 
-# Ecosystem overall architecture
+## 1.4 CISUM’s Positioning and Vision
 
-The diagram below illustrates the high-level interaction flows between artists, fans, and the platform, highlighting various mining mechanisms:
+`CISUM` is a pure ecosystem utility token with core value in:
+- Serving as a functional tool and value exchange medium within the music ecosystem.
+- Incentivizing contributions and creative activities of ecosystem participants.
+- Facilitating direct value connections between artists and fans.
+- Enabling decentralized governance and community co-building functions.
+
+**Cisumverse** is committed to building a borderless, transparent, and fair music and arts ecosystem. Through blockchain, smart contracts, and decentralized governance, we empower artists and their communities to collaboratively create a sustainable, vibrant, and collaborative future. As a pioneering platform, **Cisumverse** helps emerging artists become global stars. Leveraging Web3 and A.I. technologies, we foster authentic connections between artists and fans, promoting interaction, shared success, and unlocking infinite creative possibilities.
+
+# 2. Ecosystem Architecture
+
+The following high-level diagram illustrates the interaction process between artists, fans, and the platform, showcasing various mining mechanisms:
 
 <p align="center">
-<img src="./resources/cisum-tokenomics.png" width=600 />
-<h4 align="center" style="color:grey;font-weight: normal;">Figure-1: CISUM Ecosystem Architecture Diagram</h4>
+<img src="./resources/cisum-tokenomics.en.png" width=600 />
+<h4 align="center" style="color:grey;font-weight: normal;">Figure-1: CISUM Ecosystem Architecture</h4>
 </p>
-
 
 > [!NOTE]
-> 1. There can be as many artisits communities as possible as the platform grows to reache the global markets.
-> 2. Each artisits community is required to put aside 10% of their platform income as contribution to the platform fund.
-> 3. The platform is required to use the platform fund to buy back and burn CISUM tokens to create continuous deflation effect to CISUM.
+> 1. As the platform expands to global markets, an unlimited number of artist communities can be established.
+> 2. Each artist community must contribute 10% of its platform revenue to the platform fund.
+> 3. The platform uses the platform fund to buy back and burn `CISUM` tokens, creating a continuous deflationary effect.
 
+# 3. CISUM Token Distribution
 
-## Token distribution
+## 3.1 CISUM Token Distribution Chart
 
-The total supply of `CISUM` is `10 billion`, `51%` of which has to be mined through ecosystem activities. Following diagram shows the overall distribution of the platform token.
-
-<p align="center">
-<img src="./resources/cisum-token-distribution.png" width=600 />
-<h4 align="center" style="color:grey;font-weight: normal;">Figure-2: CISUM Token Distribution Diagram</h4>
-</p>
-
-# CISUM Token Distribution Schedule
-
-| Allocation Category        | Percentage | Token Amount         | Vesting Plan | Description          | 
-|----------------------------|------------|----------------------|--------------|----------------------|
-| Core Team                  | 15%        | 1,500,000,000 CISUM  | 18-month cliff, 36-month linear unlock | Reserved for founding members, subject to vesting schedules to ensure long-term alignment.         |
-| Private Fundraising        | 15%        | 1,200,000,000 CISUM  | 18-month cliff, 18-month linear unlock | Allocated to early investors from private sales, with vesting to prevent market dumping.           |
-| Foundation                 | 12%        | 1,200,000,000 CISUM    | N/A | Used for platform development, research, and community initiatives governed by the foundation.     |
-| Strategic Reserve          | 4%         | 400,000,000 CISUM    | N/A | Held for unforeseen opportunities and platform stability measures.                                 |
-| Community Airdrops         | 3%         | 300,000,000 CISUM    | N/A | Distributed to early users and community members to encourage platform adoption and engagement.    |
-| Ecosystem Mining           | 51%        | 5,100,000,000 CISUM  | N/A | Mined via Proof of Head, Payment and Stake to incentivize participation and ecosystem development. |
-
-## CISUM Token Circulating Schedule
+The total supply of `CISUM` is `10 billion`, with `51%` allocated for ecosystem mining activities. The following chart shows the overall token distribution.
 
 <p align="center">
-<img src="./resources/cisum-circulating-schedule.png" width=600 />
-<h4 align="center" style="color:grey;font-weight: normal;">Figure-3: CISUM Circulating Schedule</h4>
+<img src="./resources/cisum-token-distribution.en.png" width=600 />
+<h4 align="center" style="color:grey;font-weight: normal;">Figure-2: CISUM Token Distribution</h4>
 </p>
 
-# Technology
+## 3.2 CISUM Token Release Schedule
 
-## Employment of Blockchain and Smart Contract technology
+| Allocation Category | Percentage | Token Amount       | Vesting Schedule                     | Description                                         |
+|---------------------|------------|---------------------|--------------------------------------|----------------------------------------------------|
+| Founding Team       | 15%        | 1.5B CISUM          | 18-month lockup, 36-month linear unlock | Reserved for founding members, with vesting to ensure long-term alignment. |
+| Private Sale        | 15%        | 1.2B CISUM          | 18-month lockup, 18-month linear unlock | Allocated to early private investors, with vesting to prevent market dumps. |
+| Foundation          | 12%        | 1.2B CISUM          | None                                 | Used for platform development, research, and community governance activities. |
+| Strategic Reserve   | 4%         | 400M CISUM          | None                                 | Reserved for unforeseen opportunities and platform stability measures. |
+| Community Airdrop   | 3%         | 300M CISUM          | None                                 | Distributed to early users and community members to promote adoption and engagement. |
+| Ecosystem Mining    | 51%        | 5.1B CISUM          | None                                 | Mined through registration, payment, and staking proofs to incentivize participation and ecosystem growth. |
 
-**Cisumverse** has selected [FullOn Network](https://fullon.network), a high-performance Layer-1 public blockchain, as its application platform due to the following advantages:
-  - **Ultra-low gas fees:** Transactions cost less than $0.0001, ensuring affordability.
-  - **High performance:** Supports 10,000 TPS, with an architecture scalable to 1 million TPS.
-  - **Low latency:** Achieves 0.5-second block intervals and 1-second finality for rapid transaction processing.
-  - **Interoperbility:** Seamlessly connects with other blockchains in a secure and efficient manner.
+## 3.3 CISUM Token Circulation Schedule
 
-Furthermore, FullOn Network supports both EVM and WASM smart contract technologies, enabling **Cisumverse** to implement a highly decentralized solution tailored to its needs.
+<p align="center">
+<img src="./resources/cisum-circulating-schedule.en.png" width=600 />
+<h4 align="center" style="color:grey;font-weight: normal;">Figure-3: CISUM Circulation Schedule</h4>
+</p>
 
-## Employment of A.I. technology
+# 4. Technical Architecture
 
-**Cisumverse** collaborates with leading AI technology providers to create virtual content and autonomous 3D digital agents for artists, building virtual concert spaces that engage global audiences. These AI-powered 3D agents represent artists in online and on-chain ecosystems, interacting with fans, hosting virtual events, and generating revenue for NFT investors, fostering lasting artist-fan connections.
+## 4.1 Application of Blockchain and Smart Contract Technology
 
-# Team
+Cisumverse is built on the [FullOn Network](https://fullon.network), a high-performance Layer-1 public blockchain with the following advantages:
+  - **Ultra-Low Fees**: Transaction costs below $0.0001, ensuring affordability.
+  - **High Performance**: Supports 10,000 transactions per second, scalable to 1 million transactions per second.
+  - **Low Latency**: Achieves 0.5-second block intervals and 1-second finality for fast transaction processing.
+  - **Interoperability**: Seamlessly connects with other blockchains in a secure and efficient manner.
 
-## Founding partners
+Additionally, FullOn Network supports EVM and WASM smart contract technologies, enabling Cisumverse to implement highly decentralized solutions tailored to its specific needs.
 
-- **STAR NEST**: The music promition and trading platform in Asia, founded by Zorror Xu.
-- **ZENITH Entertainment Group**: K-pop pioneer, former SM Entertainment CEO, has nurtured over 10 top K-pop groups, with a fanbase exceeding 50 million.
-- **INQ**: Largest independent music company in Vietnam, signed 7 artists, with over 10 million fans.
-- **About Capital Management**: Focused on private equity investment, owns Huobi Global Exchange, providing asset management services in the Asia-Pacific market.
-- **FullOn Blockchain**: The technical foundation of **Cisumverse**, supporting on-chain issuance and circulating and trading of **Cisumverse** tokens and implmenting the tokenomics via a suite of governing smart contracts.
+## 4.2 Application of Artificial Intelligence Technology
 
-## Strategic partners
+**Cisumverse** collaborates with leading A.I. technology providers to create virtual content and autonomous 3D digital agents for artists, building virtual concert spaces that attract global audiences. These A.I.-driven 3D agents represent artists in online and on-chain ecosystems, engaging with fans, hosting virtual events, and generating revenue for NFT investors, fostering lasting connections between artists and fans.
 
-- **United Entertainment Group**: Tencent Music Entertainment Group's brand responsible for artist, concert, and music festival investment management.
-- **Kazakhstan OZEN XO LLP**: Central Asia's largest copyright trading platform, distributing works for over 600 independent musicians.
-- **CAPITAL Theater**: A renowned independent music venue in Vietnam, with a capacity of 2,000 people, hosting over 100 performances annually, and attracting more than 100,000 attendees.
-- **Hong Kong SATELITE Electronic Music Label**: Founded by Janva Tam (Tan Shu Zhong), co-founder of Lane Crawford Group, who has organized over 100 global events for LVMH. SATELITE hosts over 100 electronic music parties annually, with a fan membership exceeding 100,000.
+# 5. Team
 
+## 5.1 Founding Partners
 
-## Leadership team
+- **STAR NEST**: Asian music promotion and trading platform, founded by Zorror Xu.
+- **ZENITH Entertainment Group**: K-pop pioneer, former SM Entertainment CEO, having developed over 10 top K-pop groups with a fanbase exceeding 50 million.
+- **INQ**: Vietnam’s largest independent music company, with 7 signed artists and over 10 million fans.
+- **About Capital Management**: Focused on private equity investments, owns Huobi Global Exchange, providing asset management services in the Asia-Pacific region.
+- **FullOn Blockchain**: The technological foundation of Cisumverse, supporting on-chain issuance, circulation, and trading of Cisumverse tokens, with a series of governance smart contracts to implement token economics.
+
+## 5.2 Strategic Partners
+
+- **United Entertainment Group**: A brand under Tencent Music Entertainment Group, responsible for artist, concert, and music festival investment management.
+- **Kazakhstan OZEN XO LLP**: Central Asia’s largest copyright trading platform, distributing works for over 600 independent musicians.
+- **CAPITAL Theater**: A renowned independent music venue in Vietnam with a 2,000-person capacity, hosting over 100 performances annually, attracting over 100,000 attendees.
+- **Hong Kong SATELITE Electronic Music Brand**: Founded by Janva Tam, co-founder of Lane Crawford Group, organizing over 100 global events for LVMH. SATELITE hosts over 100 electronic music parties annually, with a fan membership exceeding 100,000.
+
+## 5.3 Leadership Team
 
 - **Dow**: Strategy and Finance, financial investment expert.
-- **Zorro**: Artist discovery and content planning, former regional president of Warner Records.
-- **Jun Kang**: Artist training and copyright promotion, former CEO of SM Entertainment.
-- **Michael Choi**: Artist development and copyright production, renowned British music producer.
-- **Thor**: Technical architecture, founder of the FullOn blockchain.
+- **Zorro**: Artist Discovery and Content Curation, former Warner Records Regional President.
+- **Jun Kang**: Artist Training and Copyright Promotion, former SM Entertainment CEO.
+- **Michael Choi**: Artist Development and Copyright Production, renowned UK music producer.
+- **Thor**: Technical Architecture, founder of FullOn Blockchain.
 
-# Governance Model
+# 6. Governance Model
 
-- **Initial Governance (2025-2028)**: The Cisum Foundation (registered in the Cayman Islands) oversees strategic planning, token issuance, and ecosystem management to ensure compliance and initial stability.
-- **Transitional Governance (2028-2029)**: Gradually shifts to decentralized governance under Fans DAO, with fans participating in decision-making through CISUM staking and a badge system.
-- **Fully Decentralized Governance (2029 onward)**: Fans DAO fully takes over, with fans and artists collectively deciding platform development, artist signings, and revenue distribution, building a true community co-governance ecosystem.
+- **Initial Governance (2025-2028)**: The Cisumverse Foundation (registered in the Cayman Islands) oversees strategic planning, token issuance, and ecosystem management to ensure compliance and early stability.
+- **Transitional Governance (2028-2029)**: Gradual shift to decentralized governance led by a Fan DAO, where fans participate in decision-making through `CISUM` staking and badge systems.
+- **Fully Decentralized Governance (2029 Onward)**: The Fan DAO fully takes over, with fans and artists collectively deciding platform development, artist signings, and revenue distribution, establishing a true community-governed ecosystem.
 
 > [!TIP]
-> All parameter values presented in this paper are subject to future DAO governance to adapt to a dynamically changing market environment.
+> All parameter values presented in this whitepaper are subject to future DAO governance adjustments to adapt to dynamic market conditions.
 
-# Conclusion: The Future of Music with CISUM
+# 7. Conclusion: Co-Creating the Future of Music with Cisumverse
 
-CISUM represents a transformative vision for the future of the music industry. Through technological innovation and community governance, we aim to build a fair, transparent, and sustainable ecosystem, propelling global music into the Web3 era. Join us in shaping the future of music.
+Cisumverse represents a transformative vision for the future of the music industry. Through technological innovation and community governance, we are committed to building a fair, transparent, and sustainable ecosystem, propelling global music into the Web3 era. Join us to shape the future of music.
