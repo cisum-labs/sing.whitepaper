@@ -29,7 +29,7 @@ The traditional music industry has long faced structural issues such as unequal 
 - `Diversified Revenue Models`: Integrating subscriptions, advertising, merchandise, and performances.
 - `Practical Value Support`: A `10%` revenue-binding mechanism ensures token value is backed by real income.
 
-The core process includes artist discovery (Web2 selection and A.I. analytics), development (training and fan interaction), promotion (global tours and brand partnerships), and monetization (NFT issuance and metaverse experiences).
+The core process includes artist discovery and selection (Web2 methods + AI analysis), artist cultivation and development (investment and financing + training + offline tours + RWA), star achievement and commercialization (global tours + brand collaborations + merchandise sales), and digital superstar and metaverse expansion (IP RWA + virtual concerts + blockchain games).
 
 ## 1.3 Cisumverse’s Three Core Strategies
 
@@ -48,12 +48,12 @@ The core process includes artist discovery (Web2 selection and A.I. analytics), 
 
 **Cisumverse** offers multiple mining mechanisms through Web3, enabling users to earn rewards. From account creation to participation, payments, and staking, every activity generates value in the form of `CISUM` or `NESTAR` tokens, creating a vibrant ecosystem for artists and fans.
 
-| Mining Type           | Description                                                                 |
-|-----------------------|-----------------------------------------------------------------------------|
-| `PoH`: Proof of Registration | Each new account registration mints `CISUM` tokens worth `$20`                |
+| Mining Type                  | Description                                                                 |
+|------------------------------|-----------------------------------------------------------------------------|
+| `PoH`: Proof of Registration | Each new account registration will mint $20 worth of CISUM tokens and 100 `NESTAR` points. |
 | `PoE`: Proof of Engagement   | Participating in artist or project interactions to mine `NESTAR` tokens       |
 | `PoP`: Proof of Payment      | Payers receive newly minted `CISUM` tokens equivalent to `10%` of payment amount |
-| `PoS`: Proof of Stake        | `CISUM` stakers earn fixed annualized yield rewards based on lock-up periods, rewarded with newly minted `CISUM` tokens |
+| `PoS`: Proof of Stake        | `CISUM` token stakers will receive interest rewards with a fixed annualized yield based on the selected lock-up period, with rewards in newly minted `CISUM` tokens or `NESTAR` points. |
 
 > [!NOTE]
 > Example PoE activities include, but are not limited to:
@@ -156,7 +156,7 @@ Additionally, FullOn Network supports EVM and WASM smart contract technologies, 
 
 ## 5.3 Leadership Team
 
-- **Dow**: Strategy and Finance, financial investment expert.
+- **Dow**: Strategy and Finance, Investment Expert
 - **Zorro**: Artist Discovery and Content Curation, former Warner Records Regional President.
 - **Jun Kang**: Artist Training and Copyright Promotion, former SM Entertainment CEO.
 - **Michael Choi**: Artist Development and Copyright Production, renowned UK music producer.
