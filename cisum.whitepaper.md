@@ -164,9 +164,9 @@ Additionally, FullOn Network supports EVM and WASM smart contract technologies, 
 
 # 6. Governance Model
 
-- **Initial Governance (2025-2028)**: The Cisumverse Foundation (registered in the Cayman Islands) oversees strategic planning, token issuance, and ecosystem management to ensure compliance and early stability.
-- **Transitional Governance (2028-2029)**: Gradual shift to decentralized governance led by a Fan DAO, where fans participate in decision-making through `CISUM` staking and badge systems.
-- **Fully Decentralized Governance (2029 Onward)**: The Fan DAO fully takes over, with fans and artists collectively deciding platform development, artist signings, and revenue distribution, establishing a true community-governed ecosystem.
+- **Initial Governance (`2025-2028`)**: The Cisumverse Foundation (registered in the Cayman Islands) oversees strategic planning, token issuance, and ecosystem management to ensure compliance and early stability.
+- **Transitional Governance (`2028-2029`)**: Gradual shift to decentralized governance led by a Fan DAO, where fans participate in decision-making through `CISUM` staking and badge systems.
+- **Fully Decentralized Governance (`2029 Onward`)**: The Fan DAO fully takes over, with fans and artists collectively deciding platform development, artist signings, and revenue distribution, establishing a true community-governed ecosystem.
 
 > [!TIP]
 > All parameter values presented in this whitepaper are subject to future DAO governance adjustments to adapt to dynamic market conditions.
