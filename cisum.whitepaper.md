@@ -108,7 +108,7 @@ The total supply of `CISUM` is `10 billion`, with `51%` allocated for ecosystem 
 | Allocation Category | Percentage | Token Amount       | Vesting Schedule                     | Description                                         |
 |---------------------|------------|---------------------|--------------------------------------|----------------------------------------------------|
 | Founding Team       | 15%        | 1.5B CISUM          | 18-month lockup, 36-month linear unlock | Reserved for founding members, with vesting to ensure long-term alignment. |
-| Private Sale        | 15%        | 1.2B CISUM          | 18-month lockup, 18-month linear unlock | Allocated to early private investors, with vesting to prevent market dumps. |
+| Private Sale        | 15%        | 1.5B CISUM          | 18-month lockup, 18-month linear unlock | Allocated to early private investors, with vesting to prevent market dumps. |
 | Foundation          | 12%        | 1.2B CISUM          | None                                 | Used for platform development, research, and community governance activities. |
 | Strategic Reserve   | 4%         | 400M CISUM          | None                                 | Reserved for unforeseen opportunities and platform stability measures. |
 | Community Airdrop   | 3%         | 300M CISUM          | None                                 | Distributed to early users and community members to promote adoption and engagement. |
