@@ -8,6 +8,7 @@
 Additionally, `CISUM` efficiently connects artists and fans by minting `Real World Assets` (RWA) for artist growth, copyright distribution, performances, and artist IP, enabling intelligent full-lifecycle management.
 
 > [!NOTE]
+>
 > Important Disclaimer: `CISUM` is a utility token designed for functional applications and service payments within the ecosystem. It does not represent any company equity, debt, or investment contracts and does not have securities attributes.
 
 # 1. Introduction
@@ -83,7 +84,7 @@ Fans can become investors and stakeholders in their favorite artists by particip
 The following high-level diagram illustrates the interaction process between artists, fans, and the platform, showcasing various mining mechanisms:
 
 <p align="center">
-<img src="./resources/cisum-tokenomics.en.png" width=600 />
+<img src="./resources/cisum-tokenomics.png" width=600 />
 <h4 align="center" style="color:grey;font-weight: normal;">Figure-1: CISUM Ecosystem Architecture</h4>
 </p>
 
@@ -99,7 +100,7 @@ The following high-level diagram illustrates the interaction process between art
 The total supply of `CISUM` is `10 billion`, with `51%` allocated for ecosystem mining activities. The following chart shows the overall token distribution.
 
 <p align="center">
-<img src="./resources/cisum-token-distribution.en.png" width=600 />
+<img src="./resources/cisum-token-distribution.png" width=600 />
 <h4 align="center" style="color:grey;font-weight: normal;">Figure-2: CISUM Token Distribution</h4>
 </p>
 
@@ -117,13 +118,13 @@ The total supply of `CISUM` is `10 billion`, with `51%` allocated for ecosystem 
 ## 3.3 CISUM Token Circulation Schedule
 
 <p align="center">
-<img src="./resources/cisum-circulating-schedule.en.png" width=600 />
+<img src="./resources/cisum-circulating-schedule.png" width=600 />
 <h4 align="center" style="color:grey;font-weight: normal;">Figure-3: CISUM Circulation Schedule</h4>
 </p>
 
-> [!NOTE]
-> 1H = First half of the year.  E.g. 1H'25 refers to the first half of 2025.
-> 2H = Second half of the year. E.g. 1H'25 refers to the second half of 2025.
+> [!TIP]
+> `1H` = First half of the year.  E.g. `1H'25` refers to the first half of 2025.
+> `2H` = Second half of the year. E.g. `1H'25` refers to the second half of 2025.
 
 
 

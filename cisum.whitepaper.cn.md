@@ -117,7 +117,7 @@
 <h4 align="center" style="color:grey;font-weight: normal;">圖表-3：CISUM 流通計劃圖</h4>
 </p>
 
-> [!NOTE]
+> [!TIP]
 > `1H` = 上半年, 例：1H'25 = 2025上半年
 > `2H` = 下半年, 例：2H'25 = 2025下半年
 
