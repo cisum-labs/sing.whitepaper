@@ -1,11 +1,11 @@
-# Cisumverse
+# CISUM
 **Revolutionizing the Music and Arts Industry with Web3 and A.I. Technology**
 
 # Abstract
 
-`Cisumverse` is the world’s first Web3 platform dedicated to the full-lifecycle incubation of music artists, built on the high-performance FullOn public blockchain. It issues the utility ecosystem token `CISUM` along with a series of supporting tokens. Through an innovative four-stage artist incubation model, diversified mining mechanisms, and a dual-token economic system, `Cisumverse` provides functional value exchange tools for global music ecosystem participants, driving the music industry toward decentralization and community-driven development. As the native token of the `Cisumverse` platform, `CISUM` integrates Web3 and A.I. technologies to create a transparent and fair music economic ecosystem, empowering emerging artists to become global stars and transforming fans from consumers into investors and co-governors.
+`CISUM` is the world’s first Web3 platform dedicated to the full-lifecycle incubation of music artists, built on the high-performance FullOn public blockchain. It issues the utility ecosystem token `CISUM` along with a series of supporting tokens. Through an innovative four-stage artist incubation model, diversified mining mechanisms, and a dual-token economic system, `CISUM` provides functional value exchange tools for global music ecosystem participants, driving the music industry toward decentralization and community-driven development. As the native token of the `CISUM` platform, `CISUM` integrates Web3 and A.I. technologies to create a transparent and fair music economic ecosystem, empowering emerging artists to become global stars and transforming fans from consumers into investors and co-governors.
 
-Additionally, `Cisumverse` efficiently connects artists and fans by minting `Real World Assets` (RWA) for artist growth, copyright distribution, performances, and artist IP, enabling intelligent full-lifecycle management.
+Additionally, `CISUM` efficiently connects artists and fans by minting `Real World Assets` (RWA) for artist growth, copyright distribution, performances, and artist IP, enabling intelligent full-lifecycle management.
 
 > [!NOTE]
 > Important Disclaimer: `CISUM` is a utility token designed for functional applications and service payments within the ecosystem. It does not represent any company equity, debt, or investment contracts and does not have securities attributes.
@@ -20,9 +20,9 @@ The traditional music industry has long faced structural issues such as unequal 
 - `Poor User Experience`: High technical barriers make it difficult for ordinary users to participate.
 - `Insufficient Token Value Support`: Lack of practical use cases and value anchoring.
 
-## 1.2 Cisumverse’s Solution
+## 1.2 CISUM’s Solution
 
-`Cisumverse` addresses the core pain points of traditional Web3 music platforms through a four-stage artist incubation model, blending Web2 best practices with Web3 technological innovation. As the world’s first Web3 platform focused on the full-lifecycle incubation of music artists (`Cisumverse Artist Incubation Platform`, CAIP), it integrates A.I. analytics, artist growth RWA, copyright distribution RWA, performance RWA, and artist IP RWA, providing end-to-end support from artist discovery to metaverse expansion:
+`CISUM` addresses the core pain points of traditional Web3 music platforms through a four-stage artist incubation model, blending Web2 best practices with Web3 technological innovation. As the world’s first Web3 platform focused on the full-lifecycle incubation of music artists (`CISUM Artist Incubation Platform`, CAIP), it integrates A.I. analytics, artist growth RWA, copyright distribution RWA, performance RWA, and artist IP RWA, providing end-to-end support from artist discovery to metaverse expansion:
 
 - `Rebuilding Artist Belongingness`: Establishing deep ties between the platform and artists through a signing model.
 - `Enhancing Fan Loyalty`: Improving fan loyalty through diverse interactions and profit-sharing mechanisms.
@@ -31,9 +31,9 @@ The traditional music industry has long faced structural issues such as unequal 
 
 The core process includes artist discovery and selection (Web2 methods + AI analysis), artist cultivation and development (investment and financing + training + offline tours + RWA), star achievement and commercialization (global tours + brand collaborations + merchandise sales), and digital superstar and metaverse expansion (IP RWA + virtual concerts + blockchain games).
 
-## 1.3 Cisumverse’s Three Core Strategies
+## 1.3 CISUM’s Three Core Strategies
 
-**Cisumverse** leverages Web3 and A.I. technologies to empower young artists to achieve their dreams of stardom through three core strategies:
+**CISUM** leverages Web3 and A.I. technologies to empower young artists to achieve their dreams of stardom through three core strategies:
 
 1. **Tokenization of Everything**
 
@@ -46,7 +46,7 @@ The core process includes artist discovery and selection (Web2 methods + AI anal
 
 2. **Mining of Everything**
 
-**Cisumverse** offers multiple mining mechanisms through Web3, enabling users to earn rewards. From account creation to participation, payments, and staking, every activity generates value in the form of `CISUM` or `NESTAR` tokens, creating a vibrant ecosystem for artists and fans.
+**CISUM** offers multiple mining mechanisms through Web3, enabling users to earn rewards. From account creation to participation, payments, and staking, every activity generates value in the form of `CISUM` or `NESTAR` tokens, creating a vibrant ecosystem for artists and fans.
 
 | Mining Type                  | Description                                                                 |
 |------------------------------|-----------------------------------------------------------------------------|
@@ -76,7 +76,7 @@ Fans can become investors and stakeholders in their favorite artists by particip
 - Facilitating direct value connections between artists and fans.
 - Enabling decentralized governance and community co-building functions.
 
-**Cisumverse** is committed to building a borderless, transparent, and fair music and arts ecosystem. Through blockchain, smart contracts, and decentralized governance, we empower artists and their communities to collaboratively create a sustainable, vibrant, and collaborative future. As a pioneering platform, **Cisumverse** helps emerging artists become global stars. Leveraging Web3 and A.I. technologies, we foster authentic connections between artists and fans, promoting interaction, shared success, and unlocking infinite creative possibilities.
+**CISUM** is committed to building a borderless, transparent, and fair music and arts ecosystem. Through blockchain, smart contracts, and decentralized governance, we empower artists and their communities to collaboratively create a sustainable, vibrant, and collaborative future. As a pioneering platform, **CISUM** helps emerging artists become global stars. Leveraging Web3 and A.I. technologies, we foster authentic connections between artists and fans, promoting interaction, shared success, and unlocking infinite creative possibilities.
 
 # 2. Ecosystem Architecture
 
@@ -125,17 +125,17 @@ The total supply of `CISUM` is `10 billion`, with `51%` allocated for ecosystem 
 
 ## 4.1 Application of Blockchain and Smart Contract Technology
 
-Cisumverse is built on the [FullOn Network](https://fullon.network), a high-performance Layer-1 public blockchain with the following advantages:
+CISUM is built on the [FullOn Network](https://fullon.network), a high-performance Layer-1 public blockchain with the following advantages:
   - **Ultra-Low Fees**: Transaction costs below $0.0001, ensuring affordability.
   - **High Performance**: Supports 10,000 transactions per second, scalable to 1 million transactions per second.
   - **Low Latency**: Achieves 0.5-second block intervals and 1-second finality for fast transaction processing.
   - **Interoperability**: Seamlessly connects with other blockchains in a secure and efficient manner.
 
-Additionally, FullOn Network supports EVM and WASM smart contract technologies, enabling Cisumverse to implement highly decentralized solutions tailored to its specific needs.
+Additionally, FullOn Network supports EVM and WASM smart contract technologies, enabling CISUM to implement highly decentralized solutions tailored to its specific needs.
 
 ## 4.2 Application of Artificial Intelligence Technology
 
-**Cisumverse** collaborates with leading A.I. technology providers to create virtual content and autonomous 3D digital agents for artists, building virtual concert spaces that attract global audiences. These A.I.-driven 3D agents represent artists in online and on-chain ecosystems, engaging with fans, hosting virtual events, and generating revenue for NFT investors, fostering lasting connections between artists and fans.
+**CISUM** collaborates with leading A.I. technology providers to create virtual content and autonomous 3D digital agents for artists, building virtual concert spaces that attract global audiences. These A.I.-driven 3D agents represent artists in online and on-chain ecosystems, engaging with fans, hosting virtual events, and generating revenue for NFT investors, fostering lasting connections between artists and fans.
 
 # 5. Team
 
@@ -145,7 +145,7 @@ Additionally, FullOn Network supports EVM and WASM smart contract technologies, 
 - **ZENITH Entertainment Group**: K-pop pioneer, former SM Entertainment CEO, having developed over 10 top K-pop groups with a fanbase exceeding 50 million.
 - **INQ**: Vietnam’s largest independent music company, with 7 signed artists and over 10 million fans.
 - **About Capital Management**: Focused on private equity investments, owns Huobi Global Exchange, providing asset management services in the Asia-Pacific region.
-- **FullOn Blockchain**: The technological foundation of Cisumverse, supporting on-chain issuance, circulation, and trading of Cisumverse tokens, with a series of governance smart contracts to implement token economics.
+- **FullOn Blockchain**: The technological foundation of CISUM, supporting on-chain issuance, circulation, and trading of CISUM tokens, with a series of governance smart contracts to implement token economics.
 
 ## 5.2 Strategic Partners
 
@@ -164,13 +164,13 @@ Additionally, FullOn Network supports EVM and WASM smart contract technologies, 
 
 # 6. Governance Model
 
-- **Initial Governance (`2025-2028`)**: The Cisumverse Foundation (registered in the Cayman Islands) oversees strategic planning, token issuance, and ecosystem management to ensure compliance and early stability.
+- **Initial Governance (`2025-2028`)**: The CISUM Foundation (registered in the Cayman Islands) oversees strategic planning, token issuance, and ecosystem management to ensure compliance and early stability.
 - **Transitional Governance (`2028-2029`)**: Gradual shift to decentralized governance led by a Fan DAO, where fans participate in decision-making through `CISUM` staking and badge systems.
 - **Fully Decentralized Governance (`2029 Onward`)**: The Fan DAO fully takes over, with fans and artists collectively deciding platform development, artist signings, and revenue distribution, establishing a true community-governed ecosystem.
 
 > [!TIP]
 > All parameter values presented in this whitepaper are subject to future DAO governance adjustments to adapt to dynamic market conditions.
 
-# 7. Conclusion: Co-Creating the Future of Music with Cisumverse
+# 7. Conclusion: Co-Creating the Future of Music with CISUM
 
-Cisumverse represents a transformative vision for the future of the music industry. Through technological innovation and community governance, we are committed to building a fair, transparent, and sustainable ecosystem, propelling global music into the Web3 era. Join us to shape the future of music.
+CISUM represents a transformative vision for the future of the music industry. Through technological innovation and community governance, we are committed to building a fair, transparent, and sustainable ecosystem, propelling global music into the Web3 era. Join us to shape the future of music.
