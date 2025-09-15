@@ -121,6 +121,12 @@ The total supply of `CISUM` is `10 billion`, with `51%` allocated for ecosystem 
 <h4 align="center" style="color:grey;font-weight: normal;">Figure-3: CISUM Circulation Schedule</h4>
 </p>
 
+> [!NOTE]
+> 1H = First half of the year.  E.g. 1H'25 refers to the first half of 2025.
+> 2H = Second half of the year. E.g. 1H'25 refers to the second half of 2025.
+
+
+
 # 4. Technical Architecture
 
 ## 4.1 Application of Blockchain and Smart Contract Technology
