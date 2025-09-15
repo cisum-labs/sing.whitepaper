@@ -107,7 +107,7 @@ The total supply of `CISUM` is `10 billion`, with `51%` allocated for ecosystem 
 
 | Allocation Category | Percentage | Token Amount       | Vesting Schedule                     | Description                                         |
 |---------------------|------------|---------------------|--------------------------------------|----------------------------------------------------|
-| Founding Team       | 15%        | 1.5B CISUM          | 18-month lockup, 36-month linear unlock | Reserved for founding members, with vesting to ensure long-term alignment. |
+| Core Team       | 15%        | 1.5B CISUM          | 18-month lockup, 36-month linear unlock | Reserved for founding members, with vesting to ensure long-term alignment. |
 | Private Sale        | 15%        | 1.5B CISUM          | 18-month lockup, 18-month linear unlock | Allocated to early private investors, with vesting to prevent market dumps. |
 | Foundation          | 12%        | 1.2B CISUM          | None                                 | Used for platform development, research, and community governance activities. |
 | Strategic Reserve   | 4%         | 400M CISUM          | None                                 | Reserved for unforeseen opportunities and platform stability measures. |
@@ -127,7 +127,7 @@ The total supply of `CISUM` is `10 billion`, with `51%` allocated for ecosystem 
 
 CISUM is built on the [FullOn Network](https://fullon.network), a high-performance Layer-1 public blockchain with the following advantages:
   - **Ultra-Low Fees**: Transaction costs below $0.0001, ensuring affordability.
-  - **High Performance**: Supports 10,000 transactions per second, scalable to 1 million transactions per second.
+  - **High Performance**: Supports 10,000 transactions per second.
   - **Low Latency**: Achieves 0.5-second block intervals and 1-second finality for fast transaction processing.
   - **Interoperability**: Seamlessly connects with other blockchains in a secure and efficient manner.
 
