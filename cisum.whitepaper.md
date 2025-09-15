@@ -27,7 +27,7 @@ The traditional music industry has long faced structural issues such as unequal 
 - `Rebuilding Artist Belongingness`: Establishing deep ties between the platform and artists through a signing model.
 - `Enhancing Fan Loyalty`: Improving fan loyalty through diverse interactions and profit-sharing mechanisms.
 - `Diversified Revenue Models`: Integrating subscriptions, advertising, merchandise, and performances.
-- `Practical Value Support`: A `10%` revenue-binding mechanism ensures token value is backed by real income.
+- `Practical Value Support`: A revenue-binding mechanism ensures token value is backed by real income.
 
 The core process includes artist discovery and selection (Web2 methods + AI analysis), artist cultivation and development (investment and financing + training + offline tours + RWA), star achievement and commercialization (global tours + brand collaborations + merchandise sales), and digital superstar and metaverse expansion (IP RWA + virtual concerts + blockchain games).
 
@@ -39,8 +39,8 @@ The core process includes artist discovery and selection (Web2 methods + AI anal
 
 | Token         | Type | Use/Rights/Revenue                         | Acquisition Method                              |
 |---------------|------|--------------------------------------------|-----------------------------------------------|
-| `CISUM`       | FT   | Platform-level token for incentivizing ecosystem contributors and supporters | Via private sale or decentralized/centralized exchanges |
-| `NESTAR`      | NFT  | Credit points for service/content/product consumption, usable for free ticket access | Minted via staking `CISUM` or participating in `PoE` activities |
+| `CISUM`       | FT   | Platform-level token for incentivizing ecosystem contributors and supporters | distribute through private sale or `PoH` |
+| `NESTAR`      | FT  | Credit points for service/content/product consumption, usable for free ticket access | Minted via staking `CISUM` or participating in `PoE` activities |
 | `Badge NFTs`  | NFT  | Membership levels (e.g., Regular, Silver, Gold, Platinum) | Claimed when `NESTAR` consumption reaches specified thresholds |
 | `Ticket NFTs` | NFT  | Unique NFT collections for each performance | Obtained through ticket grabs or direct purchase |
 
@@ -50,19 +50,19 @@ The core process includes artist discovery and selection (Web2 methods + AI anal
 
 | Mining Type                  | Description                                                                 |
 |------------------------------|-----------------------------------------------------------------------------|
-| `PoH`: Proof of Registration | Each new account registration will mint $20 worth of CISUM tokens and 100 `NESTAR` points. |
+| `PoH`: Proof of Registration | Each new account registration will mint `$20` worth of CISUM tokens and 100 `NESTAR` points. |
 | `PoE`: Proof of Engagement   | Participating in artist or project interactions to mine `NESTAR` tokens       |
 | `PoP`: Proof of Payment      | Payers receive newly minted `CISUM` tokens equivalent to `10%` of payment amount |
 | `PoS`: Proof of Stake        | `CISUM` token stakers will receive interest rewards with a fixed annualized yield based on the selected lock-up period, with rewards in newly minted `CISUM` tokens or `NESTAR` points. |
 
 > [!NOTE]
-> Example PoE activities include, but are not limited to:
-> - Daily check-ins to artist communities
-> - Inviting others to join artist communities
-> - Posting/sharing artist events on social media
-> - Playing artist music
-> - Sharing artist music with others
-> - Purchasing artist-related products
+> 1. PoH registration uses the RWID technology on the FullOn public blockchain, which binds on-chain accounts to mobile phones or other 
+> social factors to simplify user account creation and ensure real users are linked to on-chain accounts, effectively preventing Sybil 
+> attacks and arbitrary releases.  
+> 2. The amount of CISUM equivalent to $20 is calculated based on the current price obtained from the DEX provided by the platform within 
+> the FullOn blockchain ecosystem.  
+> 3. The platform's reserve pool stores newly minted CISUM from PoH activities. Users can purchase directly at the current DEX price without > fees, while purchases on the DEX incur transaction fees.
+
 
 3. **Fans Investing in Artists**
 
