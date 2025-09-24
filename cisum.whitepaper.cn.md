@@ -79,7 +79,7 @@
 以下展示了藝術家、粉絲與平台之間的互動流程高階圖表，展示各種挖礦機制：
 
 <p align="center">
-<img src="./resources/$SING-tokenomics.cn.png" width=600 />
+<img src="./resources/sing-tokenomics.cn.png" width=600 />
 <h4 align="center" style="color:grey;font-weight: normal;">圖表-1：$SING 生態系統架構圖</h4>
 </p>
 
@@ -95,7 +95,7 @@
 `$SING` 總供應量為 `100 億`，其中 `51%` 需通過生態系統活動挖掘。以下圖表顯示平台代幣的整體分配。
 
 <p align="center">
-<img src="./resources/$SING-token-distribution.cn.png" width=600 />
+<img src="./resources/sing-token-distribution.cn.png" width=600 />
 <h4 align="center" style="color:grey;font-weight: normal;">圖表-2：$SING 代幣分配圖</h4>
 </p>
 
@@ -112,7 +112,7 @@
 ## 3.3 $SING 代幣流通計劃
 
 <p align="center">
-<img src="./resources/$SING-circulating-schedule.cn.png" width=600 />
+<img src="./resources/sing-circulating-schedule.cn.png" width=600 />
 <h4 align="center" style="color:grey;font-weight: normal;">圖表-3：$SING 流通計劃圖</h4>
 </p>
 
