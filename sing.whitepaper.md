@@ -168,7 +168,16 @@ Additionally, FullOn Network supports EVM and WASM smart contract technologies, 
 - **Michael Choi**: Artist Development and Copyright Production, renowned UK music producer.
 - **Thor**: Technical Architecture, founder of FullOn Blockchain.
 
-# 6. Governance Model
+# 6. Collaboration and Ecosystem Building  
+
+The `$SING` project aims to establish in-depth collaborations with music institutions, companies, rights holders, independent artists, and fan communities worldwide who are passionate about exploring Web3 technology.  
+  - **Artist Collaborations**: Providing tools and technical support to help artists release music NFTs, manage fan communities, and monetize their work directly.  
+  - **Corporate Partnerships**: Working with various music platforms and companies to jointly explore Web3 solutions and bring their IP into the blockchain world.  
+  - **Developer Community**: Establishing a foundation to support third-party developers in building decentralized applications (DApps) based on the `$SING` protocol, thereby enriching the ecosystem.  
+
+As the first Web3 music platform to collaborate with `$SING`, `Cisumverse` integrates its artist incubation system, partners (such as `STAR NEST`, `ZENITH Entertainment`, `INQ`, `Baiyu Capital`, `FullOn Labs`, `United Entertainment Group`, `OZEN XO`, `CAPITAL Theater`, `SATELITE Electronic Music Label`), and projects into the `$SING` ecosystem achievements.
+
+# 7. Governance Model
 
 - **Initial Governance (`2025-2028`)**: The $SING Foundation (registered in the Cayman Islands) oversees strategic planning, token issuance, and ecosystem management to ensure compliance and early stability.
 - **Transitional Governance (`2028-2029`)**: Gradual shift to decentralized governance led by a Fan DAO, where fans participate in decision-making through `$SING` staking and badge systems.
@@ -179,4 +188,4 @@ Additionally, FullOn Network supports EVM and WASM smart contract technologies, 
 
 # 7. Conclusion: Co-Creating the Future of Music with $SING
 
-$SING represents a transformative vision for the future of the music industry. Through technological innovation and community governance, we are committed to building a fair, transparent, and sustainable ecosystem, propelling global music into the Web3 era. Join us to shape the future of music.
+`$SING` represents a transformative vision for the future of the music industry. Through technological innovation and community governance, we are committed to building a fair, transparent, and sustainable ecosystem, propelling global music into the Web3 era. Join us to shape the future of music.
