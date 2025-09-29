@@ -1,191 +1,132 @@
-# $SING
-**Revolutionizing the Music and Arts Industry with Web3 and A.I. Technology**
+# SING Global: Web3 Music Ecosystem Application Platform
 
-# Abstract
+# 1. Vision
 
-`$SING` is the world’s first Web3 platform dedicated to the full-lifecycle incubation of music artists, built on the high-performance FullOn public blockchain. It issues the utility ecosystem token `$SING` along with a series of supporting tokens. Through an innovative four-stage artist incubation model, diversified mining mechanisms, and a dual-token economic system, `$SING` provides functional value exchange tools for global music ecosystem participants, driving the music industry toward decentralization and community-driven development. As the native token of the `$SING` platform, `$SING` integrates Web3 and A.I. technologies to create a transparent and fair music economic ecosystem, empowering emerging artists to become global stars and transforming fans from consumers into investors and co-governors.
+In the current music industry dominated by centralized platforms, the flow of value among artists, record labels, copyright holders, and fans is often restricted, leading to unfair revenue distribution, limited artist development, and insufficient fan engagement. SING Global’s core vision is to leverage blockchain technology to establish a fair, transparent, and decentralized Web3 music ecosystem. As the platform’s sole native music token, SING will closely collaborate with music institutions, companies, copyright holders, artists, and fans worldwide to collectively shape the future of music. Our goal is to empower all music participants who wish to utilize Web3 technology, enabling them to directly exchange value and interact, thereby breaking traditional barriers and reshaping the future of the music industry.
 
-Additionally, `$SING` efficiently connects artists and fans by minting `Real World Assets` (RWA) for artist growth, copyright distribution, performances, and artist IP, enabling intelligent full-lifecycle management.
+By deeply integrating the successful experiences of the traditional music industry with Web3 technology, SING Global will build a comprehensive ecosystem—from discovering emerging talents to creating “digital twin superstars” in the metaverse—ultimately achieving a transparent, fair, and decentralized music economy.
 
-> [!NOTE]
->
-> Important Disclaimer: `$SING` is a utility token designed for functional applications and service payments within the ecosystem. It does not represent any company equity, debt, or investment contracts and does not have securities attributes.
+# 2. Industry Pain Points and Opportunities
 
-# 1. Introduction
+There are significant structural gaps between Web2 and Web3 music platforms, highlighting the current pain points in the music industry. Web2 platforms (e.g., Spotify) excel in artist attribution and fan engagement but face growing issues with unfair revenue distribution and restricted artist development. In contrast, Web3 platforms emphasize autonomy and transparency but struggle with low fan retention, simplistic business models, and user retention rates below 30%. SING Global aims to overcome these challenges by creating a transparent and fair music economy ecosystem for artists, fans, institutions, and investors.
 
-## 1.1 Structural Challenges in the Music Industry
-The traditional music industry has long faced structural issues such as unequal value distribution, high intermediary costs, and minimal artist profits. While existing Web3 music platforms have introduced decentralization, they commonly encounter the following pain points:
+The global music industry is valued at over $200 billion, with digital music dominating the market. Web3 music platforms are experiencing explosive growth, reshaping value distribution models and gaining traction among Gen Z and millennial users, with nearly 80 such platforms worldwide. The Asian music market is expanding at an annual growth rate exceeding 15%, with its mature fan economy model gaining increasing global influence. SING Global will focus on the Asian market for vertical integration, seamlessly blending Web2 traditional models with Web3 innovations. The platform will offer artist incubation systems, fan investment platforms, smart contract management, and community governance mechanisms to ensure artists receive full lifecycle services, fans can become investors and managers, and institutions and investors gain corresponding returns.
 
-- `Overemphasis on Decentralization`: Ignoring artist belongingness and fan loyalty, which are core elements of the music industry.
-- `Singular Business Model`: Primarily reliant on NFT speculation, lacking sustainable revenue models.
-- `Poor User Experience`: High technical barriers make it difficult for ordinary users to participate.
-- `Insufficient Token Value Support`: Lack of practical use cases and value anchoring.
+# 3. Project Overview
 
-## 1.2 $SING’s Solution
+SING is the native utility token of the SING Global decentralized music ecosystem. It serves as the core value carrier for payments, incentives, and governance. Through the SING token, we aim to establish a new music economy model where all participants can truly own digital assets and receive fair returns for their contributions. SING Global operates independently of any single platform, collaborating broadly with the global music ecosystem and supported by the high-performance FullOn Layer-1 blockchain. FullOn offers 100,000 TPS (transactions per second), low costs ($0.0002 GAS fees), and multi-chain compatibility (interoperable with Ethereum and Solana), providing robust technical support for SING Global.
 
-`$SING` addresses the core pain points of traditional Web3 music platforms through a four-stage artist incubation model, blending Web2 best practices with Web3 technological innovation. As the world’s first Web3 platform focused on the full-lifecycle incubation of music artists (`$SING Artist Incubation Platform`, CAIP), it integrates A.I. analytics, artist growth RWA, copyright distribution RWA, performance RWA, and artist IP RWA, providing end-to-end support from artist discovery to metaverse expansion:
+# 4. Token Economic Model
 
-- `Rebuilding Artist Belongingness`: Establishing deep ties between the platform and artists through a signing model.
-- `Enhancing Fan Loyalty`: Improving fan loyalty through diverse interactions and profit-sharing mechanisms.
-- `Diversified Revenue Models`: Integrating subscriptions, advertising, merchandise, and performances.
-- `Practical Value Support`: A revenue-binding mechanism ensures token value is backed by real income.
+## 4.1 Basic Information
 
-The core process includes artist discovery and selection (Web2 methods + AI analysis), artist cultivation and development (investment and financing + training + offline tours + RWA), star achievement and commercialization (global tours + brand collaborations + merchandise sales), and digital superstar and metaverse expansion (IP RWA + virtual concerts + blockchain games).
+- `Token Name`: SING
+- `Total Supply`: 10 billion tokens
 
-## 1.3 $SING’s Three Core Strategies
+## 4.2 Token Allocation
 
-**$SING** leverages Web3 and A.I. technologies to empower young artists to achieve their dreams of stardom through three core strategies:
+- `Ecosystem Mining`: 53%
+- `Founding Team`: 15%
+- `Private Sale`: 15%
+- `Foundation`: 12%
+- `Market Reserve`: 5%
 
-1. **Tokenization of Everything**
-
-| Token         | Type | Use/Rights/Revenue                         | Acquisition Method                              |
-|---------------|------|--------------------------------------------|-----------------------------------------------|
-| `$SING`       | FT   | Platform-level token for incentivizing ecosystem contributors and supporters | distribute through private sale or `PoH` |
-| `$SONG`      | FT  | Credit points for service/content/product consumption, usable for free ticket access | Minted via staking `$SING` or participating in `PoE` activities |
-| `Badge NFTs`  | NFT  | Membership levels (e.g., Regular, Silver, Gold, Platinum) | Claimed when `$SONG` consumption reaches specified thresholds |
-| `Ticket NFTs` | NFT  | Unique NFT collections for each performance | Obtained through ticket grabs or direct purchase |
-
-2. **Mining of Everything**
-
-**$SING** offers multiple mining mechanisms through Web3, enabling users to earn rewards. From account creation to participation, payments, and staking, every activity generates value in the form of `$SING` or `$SONG` tokens, creating a vibrant ecosystem for artists and fans.
-
-| Mining Type                  | Description                                                                 |
-|------------------------------|-----------------------------------------------------------------------------|
-| `PoH`: Proof of Registration | Each new account registration will mint `$20` worth of $SING tokens and 100 `$SONG` points. |
-| `PoE`: Proof of Engagement   | Participating in artist or project interactions to mine `$SONG` tokens       |
-| `PoP`: Proof of Payment      | Payers receive newly minted `$SING` tokens equivalent to `10%` of payment amount |
-| `PoS`: Proof of Stake        | `$SING` token stakers will receive interest rewards with a fixed annualized yield based on the selected lock-up period, with rewards in newly minted `$SING` tokens or `$SONG` points. |
-
-> [!NOTE]
-> 1. PoH registration uses the RWID technology on the FullOn public blockchain, which binds on-chain accounts to mobile phones or other 
-> social factors to simplify user account creation and ensure real users are linked to on-chain accounts, effectively preventing Sybil 
-> attacks and arbitrary releases.  
-> 2. The amount of $SING equivalent to $20 is calculated based on the current price obtained from the DEX provided by the platform within 
-> the FullOn blockchain ecosystem.  
-> 3. The platform's reserve pool stores newly minted $SING from PoH activities. Users can purchase directly at the current DEX price without > fees, while purchases on the DEX incur transaction fees.
-
-
-3. **Fans Investing in Artists**
-
-Fans can become investors and stakeholders in their favorite artists by participating in short-term projects (e.g., live performance events), medium-to-long-term careers (5-10 years, supporting artists to become stars), or lifelong projects (e.g., 3D digital autonomous A.I. agents serving online or on-chain communities). Through investments, fans receive NFT tokens representing shares and earn `$SING` equivalent to 10% of project revenue. Additionally, NFT holders can vote on governance decisions for their invested projects.
-
-## 1.4 $SING’s Positioning and Vision
-
-`$SING` is a pure ecosystem utility token with core value in:
-- Serving as a functional tool and value exchange medium within the music ecosystem.
-- Incentivizing contributions and creative activities of ecosystem participants.
-- Facilitating direct value connections between artists and fans.
-- Enabling decentralized governance and community co-building functions.
-
-**$SING** is committed to building a borderless, transparent, and fair music and arts ecosystem. Through blockchain, smart contracts, and decentralized governance, we empower artists and their communities to collaboratively create a sustainable, vibrant, and collaborative future. As a pioneering platform, **$SING** helps emerging artists become global stars. Leveraging Web3 and A.I. technologies, we foster authentic connections between artists and fans, promoting interaction, shared success, and unlocking infinite creative possibilities.
-
-# 2. Ecosystem Architecture
-
-The following high-level diagram illustrates the interaction process between artists, fans, and the platform, showcasing various mining mechanisms:
-
-<p align="center">
-<img src="./resources/sing-tokenomics.png" width=600 />
-<h4 align="center" style="color:grey;font-weight: normal;">Figure-1: $SING Ecosystem Architecture</h4>
-</p>
-
-> [!NOTE]
-> 1. As the platform expands to global markets, an unlimited number of artist communities can be established.
-> 2. Each artist community must contribute 10% of its platform revenue to the platform fund.
-> 3. The platform uses the platform fund to buy back and burn `$SING` tokens, creating a continuous deflationary effect.
-
-# 3. $SING Token Distribution
-
-## 3.1 $SING Token Distribution Chart
-
-The total supply of `$SING` is `10 billion`, with `51%` allocated for ecosystem mining activities. The following chart shows the overall token distribution.
+The following chart illustrates the overall token allocation:
 
 <p align="center">
 <img src="./resources/sing-token-distribution.png" width=600 />
-<h4 align="center" style="color:grey;font-weight: normal;">Figure-2: $SING Token Distribution</h4>
+<h4 align="center" style="color:grey;font-weight: normal;">Chart-1: SING Token Allocation</h4>
 </p>
 
-## 3.2 $SING Token Release Schedule
+## 4.3 SING Token Release Schedule
 
-| Allocation Category | Percentage | Token Amount       | Vesting Schedule                     | Description                                         |
-|---------------------|------------|---------------------|--------------------------------------|----------------------------------------------------|
-| Core Team       | 15%        | 1.5B $SING          | 18-month lockup, 36-month linear unlock | Reserved for founding members, with vesting to ensure long-term alignment. |
-| Private Sale        | 15%        | 1.5B $SING          | 18-month lockup, 18-month linear unlock | Allocated to early private investors, with vesting to prevent market dumps. |
-| Foundation          | 12%        | 1.2B $SING          | None                                 | Used for platform development, research, and community governance activities. |
-| Strategic Reserve   | 5%         | 0.5B $SING          | None                                 | Reserved for unforeseen opportunities and platform stability measures. |
-| Ecosystem Mining    | 53%        | 5.3B $SING          | None                                 | Mined through registration, payment, and staking proofs to incentivize participation and ecosystem growth. |
+| Allocation Category | Percentage | Token Amount | Vesting Schedule | Description |
+|---------------------|------------|---------------------|-----------------------------|------------------------------------------------|
+| Core Team | 15% | 1.5B SING | 18-month lockup, 36-month linear release | Reserved for founding members, with vesting to ensure long-term alignment. |
+| Private Sale | 15% | 1.5B SING | 18-month lockup, 18-month linear release | Allocated to early private investors, with vesting to prevent market dumping. |
+| Foundation | 12% | 1.2B SING | None | Used for platform development, research, and community governance activities. |
+| Strategic Reserve | 5% | 0.5B SING | None | Reserved for unforeseen opportunities and platform stabilization measures. |
+| Ecosystem Mining | 53% | 5.3B SING | None | Mined through purchase, payment, and staking proofs to incentivize participation and ecosystem growth. |
 
-## 3.3 $SING Token Circulation Schedule
+## 4.4 SING Token Circulation Schedule
 
 <p align="center">
 <img src="./resources/sing-circulating-schedule.png" width=600 />
-<h4 align="center" style="color:grey;font-weight: normal;">Figure-3: $SING Circulation Schedule</h4>
+<h4 align="center" style="color:grey;font-weight: normal;">Chart-2: $SING Circulation Schedule</h4>
 </p>
 
 > [!TIP]
-> `1H` = First half of the year.  E.g. `1H'25` refers to the first half of 2025.
-> `2H` = Second half of the year. E.g. `1H'25` refers to the second half of 2025.
+> `1H` = First half of the year, e.g., 1H'25 = First half of 2025
+> `2H` = Second half of the year, e.g., 2H'25 = Second half of 2025
 
+# 5. Token Utility
 
+The SING token serves as the primary payment and value transfer tool within the ecosystem, with key utilities including:
+- `Ecosystem Payments`: Used for purchasing music NFTs, virtual concert tickets, merchandise, etc.
+- `Governance`: Token holders have voting rights on future ecosystem proposals, including DAO governance.
+- `Incentives`: Rewards for artist creation, fan engagement, and node validation.
 
-# 4. Technical Architecture
+The SING economic model emphasizes “real revenue + asset backing + deflationary mechanisms.” Proof of Purchase (POP) is the primary mining model, with 50% of transaction fees used for buyback and burn, and 10% of platform revenue continuously allocated for buyback and burn to ensure stable value growth and avoid speculative volatility. Additionally, the widely used CISUM points token within the ecosystem is generated through a Proof of Stake (POS) mechanism.
 
-## 4.1 Application of Blockchain and Smart Contract Technology
+The following high-level chart illustrates the interaction process among artists, fans, and the platform, showcasing various mining mechanisms:
 
-$SING is built on the [FullOn Network](https://fullon.network), a high-performance Layer-1 public blockchain with the following advantages:
-  - **Ultra-Low Fees**: Transaction costs below $0.0001, ensuring affordability.
-  - **High Performance**: Supports 10,000 transactions per second.
-  - **Low Latency**: Achieves 0.5-second block intervals and 1-second finality for fast transaction processing.
-  - **Interoperability**: Seamlessly connects with other blockchains in a secure and efficient manner.
+<p align="center">
+<img src="./resources/sing-tokenomics.png" width=600 />
+<h4 align="center" style="color:grey;font-weight: normal;">Chart-3: $SING Ecosystem Architecture</h4>
+</p>
 
-Additionally, FullOn Network supports EVM and WASM smart contract technologies, enabling $SING to implement highly decentralized solutions tailored to its specific needs.
+> [!NOTE]
+> 1. As the platform expands to global markets, any number of artist communities can be established.
+> 2. Each artist community must contribute 10% of its platform revenue to the `platform reserve`.
+> 3. The platform uses the `platform reserve` to buy back and burn $SING tokens, creating a continuous deflationary effect.
 
-## 4.2 Application of Artificial Intelligence Technology
+## 5.1 Proof of Purchase (POP)
 
-**$SING** collaborates with leading A.I. technology providers to create virtual content and autonomous 3D digital agents for artists, building virtual concert spaces that attract global audiences. These A.I.-driven 3D agents represent artists in online and on-chain ecosystems, engaging with fans, hosting virtual events, and generating revenue for NFT investors, fostering lasting connections between artists and fans.
+POP is a unique token acquisition mechanism designed to integrate real-world consumption with blockchain economics. Its operation is as follows:
+- When users purchase tickets, merchandise, digital albums, etc., through fiat (e.g., USD or stablecoins) within the ecosystem or partner channels, the system automatically extracts 10% of the payment amount.
+- This 10% is returned to the paying user in an equivalent amount of SING tokens based on the current token price.
+- Simultaneously, this 10% fiat amount is injected into the SING token’s Automated Market Maker (AMM) liquidity pool to enhance token liquidity and price stability.
 
-# 5. Team
+This mechanism not only incentivizes users but also introduces continuous external capital inflow to ensure healthy liquidity. POP is the primary ecosystem mining model, supporting Real World Assets (RWA) such as IP RWA, artist performance RWA, copyright RWA, and artist growth RWA.
 
-## 5.1 Founding Partners
+## 5.2 Proof of Stake (POS)
 
-- **STAR NEST**: Asian music promotion and trading platform, founded by Zorror Xu.
-- **ZENITH Entertainment Group**: K-pop pioneer, former SM Entertainment CEO, having developed over 10 top K-pop groups with a fanbase exceeding 50 million.
-- **INQ**: Vietnam’s largest independent music company, with 7 signed artists and over 10 million fans.
-- **About Capital Management**: Focused on private equity investments, owns Huobi Global Exchange, providing asset management services in the Asia-Pacific region.
-- **FullOn Blockchain**: The technological foundation of $SING, supporting on-chain issuance, circulation, and trading of $SING tokens, with a series of governance smart contracts to implement token economics.
+Users can stake SING tokens to earn on-chain points, a reward mechanism based on staking. On-chain points have the following features:
+- SING Global provides platform, token, and Web3 technical support, while specific point names and rules are determined by partners.
+- Points are non-tradable and used solely for ecosystem interactions to enhance user engagement and community activity.
 
-## 5.2 Strategic Partners
+# 6. Core Competitiveness
 
-- **United Entertainment Group**: A brand under Tencent Music Entertainment Group, responsible for artist, concert, and music festival investment management.
-- **Kazakhstan OZEN XO LLP**: Central Asia’s largest copyright trading platform, distributing works for over 600 independent musicians.
-- **CAPITAL Theater**: A renowned independent music venue in Vietnam with a 2,000-person capacity, hosting over 100 performances annually, attracting over 100,000 attendees.
-- **Hong Kong SATELITE Electronic Music Brand**: Founded by Janva Tam, co-founder of Lane Crawford Group, organizing over 100 global events for LVMH. SATELITE hosts over 100 electronic music parties annually, with a fan membership exceeding 100,000.
+SING Global’s core competitiveness lies in the following areas: a focus on the full lifecycle RWA model for artists, the technical advantages of the FullOn blockchain, an innovative token economic model, and a top-tier industry leadership team.
 
-## 5.3 Leadership Team
+## 6.1 Full Lifecycle RWA Model
 
-- **Dow**: Strategy and Finance, Investment Expert
-- **Zorro**: Artist Discovery and Content Curation, former Warner Records Regional President.
-- **Jun Kang**: Artist Training and Copyright Promotion, former SM Entertainment CEO.
-- **Michael Choi**: Artist Development and Copyright Production, renowned UK music producer.
-- **Thor**: Technical Architecture, founder of FullOn Blockchain.
+SING Global operates a comprehensive artist incubation process across four stages—artist discovery, artist nurturing and promotion, artist achievement and commercialization, and ultimately creating “digital twin superstars.” This model fully manages artist growth RWA, artist copyright issuance RWA, artist performance RWA, and artist IP RWA, meeting fans’ emotional needs while enabling them to become investors and participants in artist management through RWA.
 
-# 6. Collaboration and Ecosystem Building  
+## 6.2 FullOn Blockchain - Technical Assurance
 
-The `$SING` project aims to establish in-depth collaborations with music institutions, companies, rights holders, independent artists, and fan communities worldwide who are passionate about exploring Web3 technology.  
-  - **Artist Collaborations**: Providing tools and technical support to help artists release music NFTs, manage fan communities, and monetize their work directly.  
-  - **Corporate Partnerships**: Working with various music platforms and companies to jointly explore Web3 solutions and bring their IP into the blockchain world.  
-  - **Developer Community**: Establishing a foundation to support third-party developers in building decentralized applications (DApps) based on the `$SING` protocol, thereby enriching the ecosystem.  
+SING Global is built on the FullOn blockchain, designed specifically for Web3 and AI ecosystems, with the following technical advantages:
+- `High Performance`: 100,000 TPS (transactions per second).
+- `Fast Confirmation`: Transaction confirmation in less than 1 second.
+- `Low Cost`: GAS fees of only $0.0002.
+- `Multi-Chain Compatibility`: Interoperable with mainstream blockchains like Ethereum and Solana.
+- `Secure and Reliable`: Utilizes an improved POS consensus mechanism, ensuring 99.99% availability.
 
-As the first Web3 music platform to collaborate with `$SING`, `Cisumverse` integrates its artist incubation system, partners (such as `STAR NEST`, `ZENITH Entertainment`, `INQ`, `Baiyu Capital`, `FullOn Labs`, `United Entertainment Group`, `OZEN XO`, `CAPITAL Theater`, `SATELITE Electronic Music Label`), and projects into the `$SING` ecosystem achievements.
+## 6.3 Top Industry Leadership Team
 
-# 7. Governance Model
+SING Global brings together leaders from the Web2 music industry and blockchain experts, ensuring dual strengths in industry experience and technical expertise:
+- Xiaofeng Xu: Former President of Warner Music China, a leading figure in Chinese music with experience managing over 30 superstar artists and 50M+ fans.
+- Jun Kang: Former CEO of SM Entertainment, a pioneer in K-pop, successfully creating over 10 K-pop superstars with 50M+ fans.
+- Thor: Founder of FullOn blockchain, former Senior Vice President at Morgan Stanley, and a blockchain architect with 8 years of public chain development experience.
 
-- **Initial Governance (`2025-2028`)**: The $SING Foundation (registered in the Cayman Islands) oversees strategic planning, token issuance, and ecosystem management to ensure compliance and early stability.
-- **Transitional Governance (`2028-2029`)**: Gradual shift to decentralized governance led by a Fan DAO, where fans participate in decision-making through `$SING` staking and badge systems.
-- **Fully Decentralized Governance (`2029 Onward`)**: The Fan DAO fully takes over, with fans and artists collectively deciding platform development, artist signings, and revenue distribution, establishing a true community-governed ecosystem.
+# 7. Partnerships and Ecosystem Building
 
-> [!TIP]
-> All parameter values presented in this whitepaper are subject to future DAO governance adjustments to adapt to dynamic market conditions.
+SING Global plans to establish deep partnerships with music institutions, companies, copyright holders, independent artists, and fan communities worldwide that are committed to exploring Web3 technology. Specific collaboration areas include:
+- `Artist Collaboration`: Providing tools and technical support to help artists issue music NFTs, manage fan communities, and directly monetize their work.
+- `Company Collaboration`: Partnering with music platforms and companies to explore Web3 solutions, bringing their IP into the blockchain world and enabling RWA for future revenue streams.
+- `Developer Community`: Establishing a foundation to support third-party developers in building decentralized applications (DApps) based on the SING protocol, enriching the ecosystem.
+- `Fan Participation`: Enabling fans to fulfill emotional value while investing in artist growth RWA, sharing in the profits of the artist’s journey, and participating in artist management.
 
-# 7. Conclusion: Co-Creating the Future of Music with $SING
+# 8. Conclusion
 
-`$SING` represents a transformative vision for the future of the music industry. Through technological innovation and community governance, we are committed to building a fair, transparent, and sustainable ecosystem, propelling global music into the Web3 era. Join us to shape the future of music.
+SING Global aims to build a fairer, more transparent, and inclusive music world. Through the unique design of the SING token, we hope to redefine the value of music, ensuring all participants benefit. We look forward to collaborating with the global music ecosystem to create the next era of the music industry.
