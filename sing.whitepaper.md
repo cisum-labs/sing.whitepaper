@@ -26,7 +26,7 @@ SING is the native utility token of the SING Global decentralized music ecosyste
 ## 4.2 Token Allocation
 
 - `Ecosystem Mining`: 53%
-- `Founding Team`: 15%
+- `Core Team`: 15%
 - `Private Sale`: 15%
 - `Foundation`: 12%
 - `Market Reserve`: 5%
