@@ -66,7 +66,7 @@ The SING token serves as the primary payment and value transfer tool within the 
 - `Governance`: Token holders have voting rights on future ecosystem proposals, including DAO governance.
 - `Incentives`: Rewards for artist creation, fan engagement, and node validation.
 
-The SING economic model emphasizes “real revenue + asset backing + deflationary mechanisms.” Proof of Purchase (POP) is the primary mining model, with 50% of transaction fees used for buyback and burn, and 10% of platform revenue continuously allocated for buyback and burn to ensure stable value growth and avoid speculative volatility. Additionally, the widely used CISUM points token within the ecosystem is generated through a Proof of Stake (POS) mechanism.
+The SING economic model emphasizes “real revenue + asset backing + deflationary mechanisms.” Proof of Purchase (POP) is the primary mining model, with 50% of transaction fees used for buyback and burn, and 10% of platform revenue continuously allocated for buyback and burn to ensure stable value growth and avoid speculative volatility. Additionally, the widely used points token within the ecosystem is generated through a Proof of Stake (POS) mechanism.
 
 The following high-level chart illustrates the interaction process among artists, fans, and the platform, showcasing various mining mechanisms:
 
